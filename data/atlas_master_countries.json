@@ -1,0 +1,4113 @@
+{
+  "meta": {
+    "total_countries": 195,
+    "note": "Datos generales aproximados (poblacion/superficie redondeados). Verificar cifras exactas antes de publicar la app; los nombres, capitales y continentes son fiables, poblacion y superficie son ordenes de magnitud recientes. Nota: Tuvalu y Palestina no tienen silueta en Mapsicon (omitidos por el propio repositorio); map_image_url es null para esos dos.",
+    "map_image_source": "Mapsicon (github.com/djaiss/mapsicon) - siluetas PNG en negro, transparente, varios tamanos (16px a 1024px) y SVG. URL usa tamano 1024.",
+    "flag_image_source": "flagcdn.com - banderas PNG por codigo ISO2"
+  },
+  "continents": [
+    "Africa",
+    "America del Norte",
+    "America del Sur",
+    "Asia",
+    "Europa",
+    "Oceania"
+  ],
+  "countries": [
+    {
+      "name": "Argelia",
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "continent": "Africa",
+      "capital": "Argel",
+      "population": 44700000,
+      "area_km2": 2381741,
+      "official_language": "Arabe",
+      "currency": "Dinar argelino",
+      "landmarks": [
+        "Casbah de Argel"
+      ],
+      "hints": [
+        "Es el pais mas grande de Africa",
+        "Gran parte de su territorio es desierto del Sahara"
+      ],
+      "flag_emoji": "🇩🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/dz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+      "name": "Angola",
+      "iso2": "AO",
+      "iso3": "AGO",
+      "continent": "Africa",
+      "capital": "Luanda",
+      "population": 35600000,
+      "area_km2": 1246700,
+      "official_language": "Portugues",
+      "currency": "Kwanza",
+      "landmarks": [
+        "Cataratas de Kalandula"
+      ],
+      "hints": [
+        "Fue colonia portuguesa",
+        "Gran productor de petroleo"
+      ],
+      "flag_emoji": "🇦🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ao/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ao.png"
+    },
+    {
+      "name": "Benin",
+      "iso2": "BJ",
+      "iso3": "BEN",
+      "continent": "Africa",
+      "capital": "Porto-Novo",
+      "population": 13300000,
+      "area_km2": 112622,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Palacios reales de Abomey"
+      ],
+      "hints": [
+        "Cuna del vudu",
+        "Antes se llamaba Dahomey"
+      ],
+      "flag_emoji": "🇧🇯",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bj/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bj.png"
+    },
+    {
+      "name": "Botsuana",
+      "iso2": "BW",
+      "iso3": "BWA",
+      "continent": "Africa",
+      "capital": "Gaborone",
+      "population": 2600000,
+      "area_km2": 581730,
+      "official_language": "Ingles",
+      "currency": "Pula",
+      "landmarks": [
+        "Delta del Okavango"
+      ],
+      "hints": [
+        "Gran parte de su territorio es el desierto del Kalahari",
+        "Famoso por su fauna salvaje"
+      ],
+      "flag_emoji": "🇧🇼",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bw/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bw.png"
+    },
+    {
+      "name": "Burkina Faso",
+      "iso2": "BF",
+      "iso3": "BFA",
+      "continent": "Africa",
+      "capital": "Uagadugu",
+      "population": 22700000,
+      "area_km2": 272967,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Mezquita de Bobo-Dioulasso"
+      ],
+      "hints": [
+        "Pais sin salida al mar",
+        "Antes se llamaba Alto Volta"
+      ],
+      "flag_emoji": "🇧🇫",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bf/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bf.png"
+    },
+    {
+      "name": "Burundi",
+      "iso2": "BI",
+      "iso3": "BDI",
+      "continent": "Africa",
+      "capital": "Gitega",
+      "population": 13200000,
+      "area_km2": 27834,
+      "official_language": "Frances/Kirundi",
+      "currency": "Franco burundes",
+      "landmarks": [
+        "Lago Tanganica"
+      ],
+      "hints": [
+        "Uno de los paises mas pequenos de Africa",
+        "Vecino de Ruanda"
+      ],
+      "flag_emoji": "🇧🇮",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bi/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bi.png"
+    },
+    {
+      "name": "Cabo Verde",
+      "iso2": "CV",
+      "iso3": "CPV",
+      "continent": "Africa",
+      "capital": "Praia",
+      "population": 600000,
+      "area_km2": 4033,
+      "official_language": "Portugues",
+      "currency": "Escudo caboverdiano",
+      "landmarks": [
+        "Isla de Fogo"
+      ],
+      "hints": [
+        "Archipielago volcanico en el Atlantico",
+        "Antigua colonia portuguesa"
+      ],
+      "flag_emoji": "🇨🇻",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cv/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cv.png"
+    },
+    {
+      "name": "Camerun",
+      "iso2": "CM",
+      "iso3": "CMR",
+      "continent": "Africa",
+      "capital": "Yaunde",
+      "population": 28600000,
+      "area_km2": 475442,
+      "official_language": "Frances/Ingles",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Monte Camerun"
+      ],
+      "hints": [
+        "Conocido como 'Africa en miniatura'",
+        "Tiene dos lenguas oficiales"
+      ],
+      "flag_emoji": "🇨🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cm.png"
+    },
+    {
+      "name": "Chad",
+      "iso2": "TD",
+      "iso3": "TCD",
+      "continent": "Africa",
+      "capital": "Yamena",
+      "population": 18300000,
+      "area_km2": 1284000,
+      "official_language": "Frances/Arabe",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Lago Chad"
+      ],
+      "hints": [
+        "Pais sin salida al mar en el norte de Africa central",
+        "El lago que le da nombre se ha reducido mucho"
+      ],
+      "flag_emoji": "🇹🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/td/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/td.png"
+    },
+    {
+      "name": "Comoras",
+      "iso2": "KM",
+      "iso3": "COM",
+      "continent": "Africa",
+      "capital": "Moroni",
+      "population": 850000,
+      "area_km2": 2235,
+      "official_language": "Comorense/Frances/Arabe",
+      "currency": "Franco comorano",
+      "landmarks": [
+        "Volcan Karthala"
+      ],
+      "hints": [
+        "Archipielago en el Oceano Indico",
+        "Uno de los paises mas pequenos de Africa"
+      ],
+      "flag_emoji": "🇰🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/km/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/km.png"
+    },
+    {
+      "name": "Republica del Congo",
+      "iso2": "CG",
+      "iso3": "COG",
+      "continent": "Africa",
+      "capital": "Brazzaville",
+      "population": 5800000,
+      "area_km2": 342000,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Selva del Congo"
+      ],
+      "hints": [
+        "No confundir con la Republica Democratica del Congo",
+        "Su capital esta frente a Kinshasa"
+      ],
+      "flag_emoji": "🇨🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cg.png"
+    },
+    {
+      "name": "Republica Democratica del Congo",
+      "iso2": "CD",
+      "iso3": "COD",
+      "continent": "Africa",
+      "capital": "Kinshasa",
+      "population": 102000000,
+      "area_km2": 2344858,
+      "official_language": "Frances",
+      "currency": "Franco congoleno",
+      "landmarks": [
+        "Rio Congo"
+      ],
+      "hints": [
+        "Segundo pais mas grande de Africa",
+        "Gran riqueza en minerales"
+      ],
+      "flag_emoji": "🇨🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cd/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cd.png"
+    },
+    {
+      "name": "Costa de Marfil",
+      "iso2": "CI",
+      "iso3": "CIV",
+      "continent": "Africa",
+      "capital": "Yamusukro",
+      "population": 29400000,
+      "area_km2": 322463,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Basilica de Yamusukro"
+      ],
+      "hints": [
+        "Mayor productor mundial de cacao",
+        "Su capital tiene la iglesia mas grande del mundo"
+      ],
+      "flag_emoji": "🇨🇮",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ci/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ci.png"
+    },
+    {
+      "name": "Yibuti",
+      "iso2": "DJ",
+      "iso3": "DJI",
+      "continent": "Africa",
+      "capital": "Yibuti",
+      "population": 1100000,
+      "area_km2": 23200,
+      "official_language": "Frances/Arabe",
+      "currency": "Franco yibutiano",
+      "landmarks": [
+        "Lago Assal"
+      ],
+      "hints": [
+        "Uno de los lugares mas calurosos del mundo",
+        "Estrategica ubicacion junto al Mar Rojo"
+      ],
+      "flag_emoji": "🇩🇯",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/dj/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/dj.png"
+    },
+    {
+      "name": "Egipto",
+      "iso2": "EG",
+      "iso3": "EGY",
+      "continent": "Africa",
+      "capital": "El Cairo",
+      "population": 112700000,
+      "area_km2": 1002450,
+      "official_language": "Arabe",
+      "currency": "Libra egipcia",
+      "landmarks": [
+        "Piramides de Guiza"
+      ],
+      "hints": [
+        "Atravesado por el rio Nilo",
+        "Hogar de una de las civilizaciones mas antiguas"
+      ],
+      "flag_emoji": "🇪🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/eg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/eg.png"
+    },
+    {
+      "name": "Guinea Ecuatorial",
+      "iso2": "GQ",
+      "iso3": "GNQ",
+      "continent": "Africa",
+      "capital": "Malabo",
+      "population": 1700000,
+      "area_km2": 28051,
+      "official_language": "Espanol/Frances/Portugues",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Isla de Bioko"
+      ],
+      "hints": [
+        "Unico pais africano con el espanol como idioma oficial",
+        "Rico en petroleo"
+      ],
+      "flag_emoji": "🇬🇶",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gq/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gq.png"
+    },
+    {
+      "name": "Eritrea",
+      "iso2": "ER",
+      "iso3": "ERI",
+      "continent": "Africa",
+      "capital": "Asmara",
+      "population": 3700000,
+      "area_km2": 117600,
+      "official_language": "Tigrina/Arabe/Ingles",
+      "currency": "Nakfa",
+      "landmarks": [
+        "Arquitectura art-deco de Asmara"
+      ],
+      "hints": [
+        "Fue parte de Etiopia hasta 1993",
+        "Costa en el Mar Rojo"
+      ],
+      "flag_emoji": "🇪🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/er/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/er.png"
+    },
+    {
+      "name": "Esuatini",
+      "iso2": "SZ",
+      "iso3": "SWZ",
+      "continent": "Africa",
+      "capital": "Mbabane",
+      "population": 1200000,
+      "area_km2": 17364,
+      "official_language": "Ingles/Suazi",
+      "currency": "Lilangeni",
+      "landmarks": [
+        "Reserva de Hlane"
+      ],
+      "hints": [
+        "Antes se llamaba Suazilandia",
+        "Una de las ultimas monarquias absolutas"
+      ],
+      "flag_emoji": "🇸🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sz.png"
+    },
+    {
+      "name": "Etiopia",
+      "iso2": "ET",
+      "iso3": "ETH",
+      "continent": "Africa",
+      "capital": "Adis Abeba",
+      "population": 126500000,
+      "area_km2": 1104300,
+      "official_language": "Amharico",
+      "currency": "Birr",
+      "landmarks": [
+        "Iglesias de roca de Lalibela"
+      ],
+      "hints": [
+        "Nunca fue colonizada de forma permanente",
+        "Cuna del cafe"
+      ],
+      "flag_emoji": "🇪🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/et/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/et.png"
+    },
+    {
+      "name": "Gabon",
+      "iso2": "GA",
+      "iso3": "GAB",
+      "continent": "Africa",
+      "capital": "Libreville",
+      "population": 2400000,
+      "area_km2": 267668,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Parque Nacional Loango"
+      ],
+      "hints": [
+        "Gran parte cubierta de selva tropical",
+        "Productor de petroleo"
+      ],
+      "flag_emoji": "🇬🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ga/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ga.png"
+    },
+    {
+      "name": "Gambia",
+      "iso2": "GM",
+      "iso3": "GMB",
+      "continent": "Africa",
+      "capital": "Banjul",
+      "population": 2700000,
+      "area_km2": 11295,
+      "official_language": "Ingles",
+      "currency": "Dalasi",
+      "landmarks": [
+        "Rio Gambia"
+      ],
+      "hints": [
+        "El pais mas pequeno de Africa continental",
+        "Rodeado casi por completo por Senegal"
+      ],
+      "flag_emoji": "🇬🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gm.png"
+    },
+    {
+      "name": "Ghana",
+      "iso2": "GH",
+      "iso3": "GHA",
+      "continent": "Africa",
+      "capital": "Accra",
+      "population": 33500000,
+      "area_km2": 238533,
+      "official_language": "Ingles",
+      "currency": "Cedi ghanes",
+      "landmarks": [
+        "Castillo de Cape Coast"
+      ],
+      "hints": [
+        "Antes se llamaba Costa de Oro",
+        "Gran productor de cacao"
+      ],
+      "flag_emoji": "🇬🇭",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gh/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gh.png"
+    },
+    {
+      "name": "Guinea",
+      "iso2": "GN",
+      "iso3": "GIN",
+      "continent": "Africa",
+      "capital": "Conakry",
+      "population": 14200000,
+      "area_km2": 245857,
+      "official_language": "Frances",
+      "currency": "Franco guineano",
+      "landmarks": [
+        "Montes Fouta Djalon"
+      ],
+      "hints": [
+        "Rica en bauxita",
+        "No confundir con Guinea-Bisau ni Guinea Ecuatorial"
+      ],
+      "flag_emoji": "🇬🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gn.png"
+    },
+    {
+      "name": "Guinea-Bisau",
+      "iso2": "GW",
+      "iso3": "GNB",
+      "continent": "Africa",
+      "capital": "Bisau",
+      "population": 2200000,
+      "area_km2": 36125,
+      "official_language": "Portugues",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Islas Bijagos"
+      ],
+      "hints": [
+        "Antigua colonia portuguesa",
+        "Archipielago de Bijagos declarado reserva de la biosfera"
+      ],
+      "flag_emoji": "🇬🇼",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gw/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gw.png"
+    },
+    {
+      "name": "Kenia",
+      "iso2": "KE",
+      "iso3": "KEN",
+      "continent": "Africa",
+      "capital": "Nairobi",
+      "population": 55100000,
+      "area_km2": 580367,
+      "official_language": "Suajili/Ingles",
+      "currency": "Chelin keniano",
+      "landmarks": [
+        "Reserva Nacional de Masai Mara"
+      ],
+      "hints": [
+        "Famoso por sus safaris",
+        "El Gran Valle del Rift lo atraviesa"
+      ],
+      "flag_emoji": "🇰🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ke/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ke.png"
+    },
+    {
+      "name": "Lesoto",
+      "iso2": "LS",
+      "iso3": "LSO",
+      "continent": "Africa",
+      "capital": "Maseru",
+      "population": 2300000,
+      "area_km2": 30355,
+      "official_language": "Sesotho/Ingles",
+      "currency": "Loti",
+      "landmarks": [
+        "Montanas Maloti"
+      ],
+      "hints": [
+        "Pais enteramente rodeado por Sudafrica",
+        "Conocido como el 'Reino del cielo'"
+      ],
+      "flag_emoji": "🇱🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ls/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ls.png"
+    },
+    {
+      "name": "Liberia",
+      "iso2": "LR",
+      "iso3": "LBR",
+      "continent": "Africa",
+      "capital": "Monrovia",
+      "population": 5400000,
+      "area_km2": 111369,
+      "official_language": "Ingles",
+      "currency": "Dolar liberiano",
+      "landmarks": [
+        "Parque Nacional Sapo"
+      ],
+      "hints": [
+        "Fundado por esclavos liberados estadounidenses",
+        "Su capital lleva el nombre del presidente Monroe"
+      ],
+      "flag_emoji": "🇱🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/lr.png"
+    },
+    {
+      "name": "Libia",
+      "iso2": "LY",
+      "iso3": "LBY",
+      "continent": "Africa",
+      "capital": "Trípoli",
+      "population": 7000000,
+      "area_km2": 1759540,
+      "official_language": "Arabe",
+      "currency": "Dinar libio",
+      "landmarks": [
+        "Ruinas de Leptis Magna"
+      ],
+      "hints": [
+        "Gran parte de su territorio es desierto",
+        "Importante productor de petroleo"
+      ],
+      "flag_emoji": "🇱🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ly/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ly.png"
+    },
+    {
+      "name": "Madagascar",
+      "iso2": "MG",
+      "iso3": "MDG",
+      "continent": "Africa",
+      "capital": "Antananarivo",
+      "population": 30300000,
+      "area_km2": 587041,
+      "official_language": "Malgache/Frances",
+      "currency": "Ariary",
+      "landmarks": [
+        "Avenida de los Baobabs"
+      ],
+      "hints": [
+        "Cuarta isla mas grande del mundo",
+        "Gran biodiversidad unica, como los lemures"
+      ],
+      "flag_emoji": "🇲🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mg.png"
+    },
+    {
+      "name": "Malaui",
+      "iso2": "MW",
+      "iso3": "MWI",
+      "continent": "Africa",
+      "capital": "Lilongwe",
+      "population": 20900000,
+      "area_km2": 118484,
+      "official_language": "Ingles/Chichewa",
+      "currency": "Kwacha malaui",
+      "landmarks": [
+        "Lago Malaui"
+      ],
+      "hints": [
+        "Conocido como el 'calido corazon de Africa'",
+        "El lago ocupa cerca de un tercio del pais"
+      ],
+      "flag_emoji": "🇲🇼",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mw/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mw.png"
+    },
+    {
+      "name": "Mali",
+      "iso2": "ML",
+      "iso3": "MLI",
+      "continent": "Africa",
+      "capital": "Bamako",
+      "population": 23300000,
+      "area_km2": 1240192,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Ciudad de Tombuctu"
+      ],
+      "hints": [
+        "Gran parte del pais esta en el Sahara",
+        "Tombuctu fue un gran centro cultural islamico"
+      ],
+      "flag_emoji": "🇲🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ml/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ml.png"
+    },
+    {
+      "name": "Marruecos",
+      "iso2": "MA",
+      "iso3": "MAR",
+      "continent": "Africa",
+      "capital": "Rabat",
+      "population": 37800000,
+      "area_km2": 446550,
+      "official_language": "Arabe",
+      "currency": "Dirham marroqui",
+      "landmarks": [
+        "Medina de Fez"
+      ],
+      "hints": [
+        "Muy cercano a Europa por el Estrecho de Gibraltar",
+        "Famoso por sus zocos y medinas"
+      ],
+      "flag_emoji": "🇲🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ma/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ma.png"
+    },
+    {
+      "name": "Mauricio",
+      "iso2": "MU",
+      "iso3": "MUS",
+      "continent": "Africa",
+      "capital": "Port Louis",
+      "population": 1300000,
+      "area_km2": 2040,
+      "official_language": "Ingles/Frances",
+      "currency": "Rupia mauriciana",
+      "landmarks": [
+        "Montana Le Morne"
+      ],
+      "hints": [
+        "Isla en el Oceano Indico",
+        "Aqui se extinguio el dodo"
+      ],
+      "flag_emoji": "🇲🇺",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mu/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mu.png"
+    },
+    {
+      "name": "Mauritania",
+      "iso2": "MR",
+      "iso3": "MRT",
+      "continent": "Africa",
+      "capital": "Nuakchot",
+      "population": 4900000,
+      "area_km2": 1030700,
+      "official_language": "Arabe",
+      "currency": "Uguiya",
+      "landmarks": [
+        "Banco de Arguin"
+      ],
+      "hints": [
+        "Gran parte de su territorio es desierto",
+        "Puente entre el Magreb y el Africa subsahariana"
+      ],
+      "flag_emoji": "🇲🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mr.png"
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "MZ",
+      "iso3": "MOZ",
+      "continent": "Africa",
+      "capital": "Maputo",
+      "population": 33900000,
+      "area_km2": 801590,
+      "official_language": "Portugues",
+      "currency": "Metical",
+      "landmarks": [
+        "Archipielago de Bazaruto"
+      ],
+      "hints": [
+        "Larga costa en el Oceano Indico",
+        "Antigua colonia portuguesa"
+      ],
+      "flag_emoji": "🇲🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mz.png"
+    },
+    {
+      "name": "Namibia",
+      "iso2": "NA",
+      "iso3": "NAM",
+      "continent": "Africa",
+      "capital": "Windhoek",
+      "population": 2600000,
+      "area_km2": 825615,
+      "official_language": "Ingles",
+      "currency": "Dolar namibio",
+      "landmarks": [
+        "Desierto de Namib"
+      ],
+      "hints": [
+        "Uno de los paises menos poblados del mundo",
+        "El desierto de Namib es de los mas antiguos del planeta"
+      ],
+      "flag_emoji": "🇳🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/na/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/na.png"
+    },
+    {
+      "name": "Niger",
+      "iso2": "NE",
+      "iso3": "NER",
+      "continent": "Africa",
+      "capital": "Niamey",
+      "population": 27200000,
+      "area_km2": 1267000,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Reserva de Air y Tenere"
+      ],
+      "hints": [
+        "Gran parte de su territorio es el Sahara",
+        "Uno de los paises mas jovenes en poblacion"
+      ],
+      "flag_emoji": "🇳🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ne/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ne.png"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "NG",
+      "iso3": "NGA",
+      "continent": "Africa",
+      "capital": "Abuya",
+      "population": 223800000,
+      "area_km2": 923768,
+      "official_language": "Ingles",
+      "currency": "Naira",
+      "landmarks": [
+        "Rocas de Zuma"
+      ],
+      "hints": [
+        "Pais mas poblado de Africa",
+        "Gran productor de petroleo"
+      ],
+      "flag_emoji": "🇳🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ng/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ng.png"
+    },
+    {
+      "name": "Ruanda",
+      "iso2": "RW",
+      "iso3": "RWA",
+      "continent": "Africa",
+      "capital": "Kigali",
+      "population": 13800000,
+      "area_km2": 26338,
+      "official_language": "Kinyarwanda/Frances/Ingles",
+      "currency": "Franco ruandes",
+      "landmarks": [
+        "Parque Nacional de los Volcanes"
+      ],
+      "hints": [
+        "Conocido como el 'pais de las mil colinas'",
+        "Hogar de los gorilas de montana"
+      ],
+      "flag_emoji": "🇷🇼",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/rw/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/rw.png"
+    },
+    {
+      "name": "Santo Tome y Principe",
+      "iso2": "ST",
+      "iso3": "STP",
+      "continent": "Africa",
+      "capital": "Santo Tome",
+      "population": 230000,
+      "area_km2": 964,
+      "official_language": "Portugues",
+      "currency": "Dobra",
+      "landmarks": [
+        "Pico Cao Grande"
+      ],
+      "hints": [
+        "Archipielago en el Golfo de Guinea",
+        "Uno de los paises mas pequenos de Africa"
+      ],
+      "flag_emoji": "🇸🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/st/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/st.png"
+    },
+    {
+      "name": "Senegal",
+      "iso2": "SN",
+      "iso3": "SEN",
+      "continent": "Africa",
+      "capital": "Dakar",
+      "population": 17700000,
+      "area_km2": 196722,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Isla de Goree"
+      ],
+      "hints": [
+        "Punto mas occidental del continente africano",
+        "La isla de Goree fue centro del comercio de esclavos"
+      ],
+      "flag_emoji": "🇸🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sn.png"
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "SC",
+      "iso3": "SYC",
+      "continent": "Africa",
+      "capital": "Victoria",
+      "population": 100000,
+      "area_km2": 459,
+      "official_language": "Frances/Ingles/Criollo",
+      "currency": "Rupia seychellense",
+      "landmarks": [
+        "Valle de Mai"
+      ],
+      "hints": [
+        "Archipielago en el Oceano Indico",
+        "Uno de los paises mas pequenos del mundo"
+      ],
+      "flag_emoji": "🇸🇨",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sc/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sc.png"
+    },
+    {
+      "name": "Sierra Leona",
+      "iso2": "SL",
+      "iso3": "SLE",
+      "continent": "Africa",
+      "capital": "Freetown",
+      "population": 8600000,
+      "area_km2": 71740,
+      "official_language": "Ingles",
+      "currency": "Leone",
+      "landmarks": [
+        "Playas de la Peninsula"
+      ],
+      "hints": [
+        "Fundado como refugio para esclavos liberados",
+        "Rico en diamantes"
+      ],
+      "flag_emoji": "🇸🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sl/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sl.png"
+    },
+    {
+      "name": "Somalia",
+      "iso2": "SO",
+      "iso3": "SOM",
+      "continent": "Africa",
+      "capital": "Mogadiscio",
+      "population": 18100000,
+      "area_km2": 637657,
+      "official_language": "Somali/Arabe",
+      "currency": "Chelin somali",
+      "landmarks": [
+        "Costa de Lido"
+      ],
+      "hints": [
+        "Tiene la costa mas larga de Africa continental",
+        "Forma el 'Cuerno de Africa'"
+      ],
+      "flag_emoji": "🇸🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/so/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/so.png"
+    },
+    {
+      "name": "Sudafrica",
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "continent": "Africa",
+      "capital": "Pretoria/Ciudad del Cabo/Bloemfontein",
+      "population": 60400000,
+      "area_km2": 1221037,
+      "official_language": "11 idiomas oficiales",
+      "currency": "Rand",
+      "landmarks": [
+        "Montana de la Mesa"
+      ],
+      "hints": [
+        "Tiene tres capitales",
+        "Conocido como la 'nacion arcoiris'"
+      ],
+      "flag_emoji": "🇿🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/za/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/za.png"
+    },
+    {
+      "name": "Sudan",
+      "iso2": "SD",
+      "iso3": "SDN",
+      "continent": "Africa",
+      "capital": "Jartum",
+      "population": 48100000,
+      "area_km2": 1886068,
+      "official_language": "Arabe/Ingles",
+      "currency": "Libra sudanesa",
+      "landmarks": [
+        "Piramides de Meroe"
+      ],
+      "hints": [
+        "Tiene mas piramides que Egipto",
+        "El Nilo Azul y el Nilo Blanco se unen en su capital"
+      ],
+      "flag_emoji": "🇸🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sd/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sd.png"
+    },
+    {
+      "name": "Sudan del Sur",
+      "iso2": "SS",
+      "iso3": "SSD",
+      "continent": "Africa",
+      "capital": "Yuba",
+      "population": 11100000,
+      "area_km2": 644329,
+      "official_language": "Ingles",
+      "currency": "Libra sursudanesa",
+      "landmarks": [
+        "Rio Nilo"
+      ],
+      "hints": [
+        "Pais mas joven del mundo, independiente desde 2011",
+        "Se separo de Sudan"
+      ],
+      "flag_emoji": "🇸🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ss/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ss.png"
+    },
+    {
+      "name": "Tanzania",
+      "iso2": "TZ",
+      "iso3": "TZA",
+      "continent": "Africa",
+      "capital": "Dodoma",
+      "population": 67400000,
+      "area_km2": 945087,
+      "official_language": "Suajili/Ingles",
+      "currency": "Chelin tanzano",
+      "landmarks": [
+        "Monte Kilimanjaro"
+      ],
+      "hints": [
+        "Alberga el pico mas alto de Africa",
+        "El Serengeti es famoso por la Gran Migracion"
+      ],
+      "flag_emoji": "🇹🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tz.png"
+    },
+    {
+      "name": "Togo",
+      "iso2": "TG",
+      "iso3": "TGO",
+      "continent": "Africa",
+      "capital": "Lome",
+      "population": 8800000,
+      "area_km2": 56785,
+      "official_language": "Frances",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Colinas de Koutammakou"
+      ],
+      "hints": [
+        "Pais estrecho y alargado",
+        "Frontera con Ghana y Benin"
+      ],
+      "flag_emoji": "🇹🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tg.png"
+    },
+    {
+      "name": "Tunez",
+      "iso2": "TN",
+      "iso3": "TUN",
+      "continent": "Africa",
+      "capital": "Tunez",
+      "population": 12300000,
+      "area_km2": 163610,
+      "official_language": "Arabe",
+      "currency": "Dinar tunecino",
+      "landmarks": [
+        "Anfiteatro de El Jem"
+      ],
+      "hints": [
+        "Pais mas septentrional de Africa",
+        "Aqui nacio la Primavera Arabe"
+      ],
+      "flag_emoji": "🇹🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tn.png"
+    },
+    {
+      "name": "Uganda",
+      "iso2": "UG",
+      "iso3": "UGA",
+      "continent": "Africa",
+      "capital": "Kampala",
+      "population": 48600000,
+      "area_km2": 241038,
+      "official_language": "Ingles/Suajili",
+      "currency": "Chelin ugandes",
+      "landmarks": [
+        "Fuentes del Nilo"
+      ],
+      "hints": [
+        "El Nilo nace en el lago Victoria en este pais",
+        "Hogar de gorilas de montana"
+      ],
+      "flag_emoji": "🇺🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ug/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ug.png"
+    },
+    {
+      "name": "Zambia",
+      "iso2": "ZM",
+      "iso3": "ZMB",
+      "continent": "Africa",
+      "capital": "Lusaka",
+      "population": 20600000,
+      "area_km2": 752618,
+      "official_language": "Ingles",
+      "currency": "Kwacha zambiano",
+      "landmarks": [
+        "Cataratas Victoria"
+      ],
+      "hints": [
+        "Comparte las Cataratas Victoria con Zimbabue",
+        "Pais sin salida al mar"
+      ],
+      "flag_emoji": "🇿🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/zm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/zm.png"
+    },
+    {
+      "name": "Zimbabue",
+      "iso2": "ZW",
+      "iso3": "ZWE",
+      "continent": "Africa",
+      "capital": "Harare",
+      "population": 16700000,
+      "area_km2": 390757,
+      "official_language": "Ingles y otros",
+      "currency": "Dolar zimbabuense",
+      "landmarks": [
+        "Grandes Ruinas del Zimbabue"
+      ],
+      "hints": [
+        "Antes se llamaba Rodesia",
+        "Las ruinas dan nombre al pais"
+      ],
+      "flag_emoji": "🇿🇼",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/zw/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/zw.png"
+    },
+    {
+      "name": "Republica Centroafricana",
+      "iso2": "CF",
+      "iso3": "CAF",
+      "continent": "Africa",
+      "capital": "Bangui",
+      "population": 5700000,
+      "area_km2": 622984,
+      "official_language": "Frances/Sango",
+      "currency": "Franco CFA",
+      "landmarks": [
+        "Selva de Dzanga-Sangha"
+      ],
+      "hints": [
+        "Pais sin salida al mar en el centro del continente",
+        "Rica en diamantes y madera"
+      ],
+      "flag_emoji": "🇨🇫",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cf/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cf.png"
+    },
+    {
+      "name": "Afganistan",
+      "iso2": "AF",
+      "iso3": "AFG",
+      "continent": "Asia",
+      "capital": "Kabul",
+      "population": 42200000,
+      "area_km2": 652230,
+      "official_language": "Pastu/Dari",
+      "currency": "Afgani",
+      "landmarks": [
+        "Minarete de Jam"
+      ],
+      "hints": [
+        "Pais montanoso sin salida al mar",
+        "Cruce historico de rutas comerciales como la Ruta de la Seda"
+      ],
+      "flag_emoji": "🇦🇫",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/af/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/af.png"
+    },
+    {
+      "name": "Arabia Saudita",
+      "iso2": "SA",
+      "iso3": "SAU",
+      "continent": "Asia",
+      "capital": "Riad",
+      "population": 36900000,
+      "area_km2": 2149690,
+      "official_language": "Arabe",
+      "currency": "Riyal saudi",
+      "landmarks": [
+        "La Meca"
+      ],
+      "hints": [
+        "Ocupa la mayor parte de la peninsula arabiga",
+        "Lugar mas sagrado del islam"
+      ],
+      "flag_emoji": "🇸🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sa/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sa.png"
+    },
+    {
+      "name": "Armenia",
+      "iso2": "AM",
+      "iso3": "ARM",
+      "continent": "Asia",
+      "capital": "Ereván",
+      "population": 3000000,
+      "area_km2": 29743,
+      "official_language": "Armenio",
+      "currency": "Dram armenio",
+      "landmarks": [
+        "Monasterio de Geghard"
+      ],
+      "hints": [
+        "Primer pais en adoptar el cristianismo como religion de estado",
+        "Situado entre Europa y Asia, en el Caucaso"
+      ],
+      "flag_emoji": "🇦🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/am/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/am.png"
+    },
+    {
+      "name": "Azerbaiyan",
+      "iso2": "AZ",
+      "iso3": "AZE",
+      "continent": "Asia",
+      "capital": "Baku",
+      "population": 10200000,
+      "area_km2": 86600,
+      "official_language": "Azerbaiyano",
+      "currency": "Manat azerbaiyano",
+      "landmarks": [
+        "Ciudad vieja de Baku"
+      ],
+      "hints": [
+        "Rico en petroleo del Mar Caspio",
+        "Situado en el Caucaso"
+      ],
+      "flag_emoji": "🇦🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/az/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/az.png"
+    },
+    {
+      "name": "Bahréin",
+      "iso2": "BH",
+      "iso3": "BHR",
+      "continent": "Asia",
+      "capital": "Manama",
+      "population": 1500000,
+      "area_km2": 760,
+      "official_language": "Arabe",
+      "currency": "Dinar baréini",
+      "landmarks": [
+        "Fuerte de Bahréin"
+      ],
+      "hints": [
+        "Es un archipielago en el Golfo Persico",
+        "Uno de los paises mas pequenos de Asia"
+      ],
+      "flag_emoji": "🇧🇭",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bh/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bh.png"
+    },
+    {
+      "name": "Bangladesh",
+      "iso2": "BD",
+      "iso3": "BGD",
+      "continent": "Asia",
+      "capital": "Daca",
+      "population": 173500000,
+      "area_km2": 148460,
+      "official_language": "Bengali",
+      "currency": "Taka",
+      "landmarks": [
+        "Sundarbans"
+      ],
+      "hints": [
+        "Uno de los paises mas densamente poblados del mundo",
+        "Atravesado por el delta del Ganges y el Brahmaputra"
+      ],
+      "flag_emoji": "🇧🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bd/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bd.png"
+    },
+    {
+      "name": "Bután",
+      "iso2": "BT",
+      "iso3": "BTN",
+      "continent": "Asia",
+      "capital": "Timbu",
+      "population": 800000,
+      "area_km2": 38394,
+      "official_language": "Dzongkha",
+      "currency": "Ngultrum",
+      "landmarks": [
+        "Monasterio de Taktsang (Nido del Tigre)"
+      ],
+      "hints": [
+        "Mide su progreso con la Felicidad Nacional Bruta",
+        "Situado en el Himalaya, entre India y China"
+      ],
+      "flag_emoji": "🇧🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bt/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bt.png"
+    },
+    {
+      "name": "Brunei",
+      "iso2": "BN",
+      "iso3": "BRN",
+      "continent": "Asia",
+      "capital": "Bandar Seri Begawan",
+      "population": 450000,
+      "area_km2": 5765,
+      "official_language": "Malayo",
+      "currency": "Dolar de Brunei",
+      "landmarks": [
+        "Mezquita Omar Ali Saifuddien"
+      ],
+      "hints": [
+        "Pequeno pais en la isla de Borneo",
+        "Rico en petroleo y gas"
+      ],
+      "flag_emoji": "🇧🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bn.png"
+    },
+    {
+      "name": "Camboya",
+      "iso2": "KH",
+      "iso3": "KHM",
+      "continent": "Asia",
+      "capital": "Nom Pen",
+      "population": 17400000,
+      "area_km2": 181035,
+      "official_language": "Jemer",
+      "currency": "Riel camboyano",
+      "landmarks": [
+        "Angkor Wat"
+      ],
+      "hints": [
+        "Alberga el mayor complejo religioso del mundo, Angkor Wat",
+        "Antiguo Imperio Jemer"
+      ],
+      "flag_emoji": "🇰🇭",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kh/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/kh.png"
+    },
+    {
+      "name": "Catar",
+      "iso2": "QA",
+      "iso3": "QAT",
+      "continent": "Asia",
+      "capital": "Doha",
+      "population": 2900000,
+      "area_km2": 11586,
+      "official_language": "Arabe",
+      "currency": "Riyal catari",
+      "landmarks": [
+        "Torres de Doha"
+      ],
+      "hints": [
+        "Peninsula en el Golfo Persico",
+        "Uno de los paises con mayor renta per capita del mundo"
+      ],
+      "flag_emoji": "🇶🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/qa/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/qa.png"
+    },
+    {
+      "name": "China",
+      "iso2": "CN",
+      "iso3": "CHN",
+      "continent": "Asia",
+      "capital": "Pekin",
+      "population": 1410000000,
+      "area_km2": 9596961,
+      "official_language": "Chino mandarin",
+      "currency": "Yuan",
+      "landmarks": [
+        "Gran Muralla China"
+      ],
+      "hints": [
+        "El pais mas poblado del mundo junto con India",
+        "La Gran Muralla mide miles de kilometros"
+      ],
+      "flag_emoji": "🇨🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+      "name": "Chipre",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "continent": "Asia",
+      "capital": "Nicosia",
+      "population": 1300000,
+      "area_km2": 9251,
+      "official_language": "Griego/Turco",
+      "currency": "Euro",
+      "landmarks": [
+        "Ruinas de Kourion"
+      ],
+      "hints": [
+        "Isla del Mediterraneo, a veces considerada tambien europea",
+        "Dividida entre la Republica de Chipre y el norte turcochipriota"
+      ],
+      "flag_emoji": "🇨🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cy/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cy.png"
+    },
+    {
+      "name": "Corea del Norte",
+      "iso2": "KP",
+      "iso3": "PRK",
+      "continent": "Asia",
+      "capital": "Pionyang",
+      "population": 26200000,
+      "area_km2": 120540,
+      "official_language": "Coreano",
+      "currency": "Won norcoreano",
+      "landmarks": [
+        "Torre del Juche"
+      ],
+      "hints": [
+        "Uno de los paises mas aislados del mundo",
+        "Separado de Corea del Sur por la zona desmilitarizada"
+      ],
+      "flag_emoji": "🇰🇵",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kp/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/kp.png"
+    },
+    {
+      "name": "Corea del Sur",
+      "iso2": "KR",
+      "iso3": "KOR",
+      "continent": "Asia",
+      "capital": "Seul",
+      "population": 51700000,
+      "area_km2": 100210,
+      "official_language": "Coreano",
+      "currency": "Won surcoreano",
+      "landmarks": [
+        "Palacio Gyeongbokgung"
+      ],
+      "hints": [
+        "Gran potencia tecnologica",
+        "Comparte peninsula con Corea del Norte"
+      ],
+      "flag_emoji": "🇰🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/kr.png"
+    },
+    {
+      "name": "Emiratos Arabes Unidos",
+      "iso2": "AE",
+      "iso3": "ARE",
+      "continent": "Asia",
+      "capital": "Abu Dabi",
+      "population": 9900000,
+      "area_km2": 83600,
+      "official_language": "Arabe",
+      "currency": "Dirham",
+      "landmarks": [
+        "Burj Khalifa"
+      ],
+      "hints": [
+        "Formado por siete emiratos",
+        "Dubái tiene el edificio mas alto del mundo"
+      ],
+      "flag_emoji": "🇦🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ae/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ae.png"
+    },
+    {
+      "name": "Filipinas",
+      "iso2": "PH",
+      "iso3": "PHL",
+      "continent": "Asia",
+      "capital": "Manila",
+      "population": 117300000,
+      "area_km2": 300000,
+      "official_language": "Filipino/Ingles",
+      "currency": "Peso filipino",
+      "landmarks": [
+        "Terrazas de arroz de Banaue"
+      ],
+      "hints": [
+        "Archipielago de mas de 7000 islas",
+        "Unico pais de mayoria catolica en Asia"
+      ],
+      "flag_emoji": "🇵🇭",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ph/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ph.png"
+    },
+    {
+      "name": "Georgia",
+      "iso2": "GE",
+      "iso3": "GEO",
+      "continent": "Asia",
+      "capital": "Tiflis",
+      "population": 3700000,
+      "area_km2": 69700,
+      "official_language": "Georgiano",
+      "currency": "Lari",
+      "landmarks": [
+        "Fortaleza de Narikala"
+      ],
+      "hints": [
+        "Situada entre Europa y Asia, en el Caucaso",
+        "Cuna del vino segun muchos historiadores"
+      ],
+      "flag_emoji": "🇬🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ge/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ge.png"
+    },
+    {
+      "name": "India",
+      "iso2": "IN",
+      "iso3": "IND",
+      "continent": "Asia",
+      "capital": "Nueva Delhi",
+      "population": 1428000000,
+      "area_km2": 3287263,
+      "official_language": "Hindi/Ingles",
+      "currency": "Rupia india",
+      "landmarks": [
+        "Taj Mahal"
+      ],
+      "hints": [
+        "Pais mas poblado del mundo",
+        "Democracia mas grande del mundo"
+      ],
+      "flag_emoji": "🇮🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/in/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/in.png"
+    },
+    {
+      "name": "Indonesia",
+      "iso2": "ID",
+      "iso3": "IDN",
+      "continent": "Asia",
+      "capital": "Yakarta",
+      "population": 277500000,
+      "area_km2": 1904569,
+      "official_language": "Indonesio",
+      "currency": "Rupia indonesia",
+      "landmarks": [
+        "Templo de Borobudur"
+      ],
+      "hints": [
+        "El archipielago mas grande del mundo, con mas de 17000 islas",
+        "Pais con mas poblacion musulmana del mundo"
+      ],
+      "flag_emoji": "🇮🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/id/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/id.png"
+    },
+    {
+      "name": "Irak",
+      "iso2": "IQ",
+      "iso3": "IRQ",
+      "continent": "Asia",
+      "capital": "Bagdad",
+      "population": 45500000,
+      "area_km2": 438317,
+      "official_language": "Arabe/Kurdo",
+      "currency": "Dinar iraqui",
+      "landmarks": [
+        "Zigurat de Ur"
+      ],
+      "hints": [
+        "Situado en la antigua Mesopotamia",
+        "Entre los rios Tigris y Eufrates"
+      ],
+      "flag_emoji": "🇮🇶",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/iq/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/iq.png"
+    },
+    {
+      "name": "Iran",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "continent": "Asia",
+      "capital": "Teheran",
+      "population": 89200000,
+      "area_km2": 1648195,
+      "official_language": "Persa (farsi)",
+      "currency": "Rial iraní",
+      "landmarks": [
+        "Persépolis"
+      ],
+      "hints": [
+        "Antiguo Imperio Persa",
+        "Uno de los paises mas montanosos del mundo"
+      ],
+      "flag_emoji": "🇮🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ir/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ir.png"
+    },
+    {
+      "name": "Israel",
+      "iso2": "IL",
+      "iso3": "ISR",
+      "continent": "Asia",
+      "capital": "Jerusalen",
+      "population": 9800000,
+      "area_km2": 20770,
+      "official_language": "Hebreo/Arabe",
+      "currency": "Nuevo shekel",
+      "landmarks": [
+        "Muro de las Lamentaciones"
+      ],
+      "hints": [
+        "Lugar sagrado para judaismo, cristianismo e islam",
+        "El Mar Muerto, en su frontera, es el punto mas bajo de la Tierra"
+      ],
+      "flag_emoji": "🇮🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/il/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/il.png"
+    },
+    {
+      "name": "Japon",
+      "iso2": "JP",
+      "iso3": "JPN",
+      "continent": "Asia",
+      "capital": "Tokio",
+      "population": 123300000,
+      "area_km2": 377975,
+      "official_language": "Japones",
+      "currency": "Yen",
+      "landmarks": [
+        "Monte Fuji"
+      ],
+      "hints": [
+        "Archipielago formado por miles de islas",
+        "Gran potencia tecnologica"
+      ],
+      "flag_emoji": "🇯🇵",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/jp/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+      "name": "Jordania",
+      "iso2": "JO",
+      "iso3": "JOR",
+      "continent": "Asia",
+      "capital": "Aman",
+      "population": 11400000,
+      "area_km2": 89342,
+      "official_language": "Arabe",
+      "currency": "Dinar jordano",
+      "landmarks": [
+        "Petra"
+      ],
+      "hints": [
+        "La ciudad de Petra esta excavada en la roca",
+        "Frontera con Israel, Siria, Irak y Arabia Saudita"
+      ],
+      "flag_emoji": "🇯🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/jo/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/jo.png"
+    },
+    {
+      "name": "Kazajistán",
+      "iso2": "KZ",
+      "iso3": "KAZ",
+      "continent": "Asia",
+      "capital": "Astaná",
+      "population": 19600000,
+      "area_km2": 2724900,
+      "official_language": "Kazajo/Ruso",
+      "currency": "Tenge",
+      "landmarks": [
+        "Estepas de Kazajistán"
+      ],
+      "hints": [
+        "El pais sin salida al mar mas grande del mundo",
+        "Aqui esta el cosmodromo de Baikonur"
+      ],
+      "flag_emoji": "🇰🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/kz.png"
+    },
+    {
+      "name": "Kirguistán",
+      "iso2": "KG",
+      "iso3": "KGZ",
+      "continent": "Asia",
+      "capital": "Biskek",
+      "population": 7000000,
+      "area_km2": 199951,
+      "official_language": "Kirguís/Ruso",
+      "currency": "Som kirguís",
+      "landmarks": [
+        "Lago Issyk-Kul"
+      ],
+      "hints": [
+        "Pais muy montanoso de Asia Central",
+        "Atravesado por las montanas Tian Shan"
+      ],
+      "flag_emoji": "🇰🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/kg.png"
+    },
+    {
+      "name": "Kuwait",
+      "iso2": "KW",
+      "iso3": "KWT",
+      "continent": "Asia",
+      "capital": "Ciudad de Kuwait",
+      "population": 4300000,
+      "area_km2": 17818,
+      "official_language": "Arabe",
+      "currency": "Dinar kuwaiti",
+      "landmarks": [
+        "Torres de Kuwait"
+      ],
+      "hints": [
+        "Pequeno pais rico en petroleo",
+        "Situado en el Golfo Persico"
+      ],
+      "flag_emoji": "🇰🇼",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kw/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/kw.png"
+    },
+    {
+      "name": "Laos",
+      "iso2": "LA",
+      "iso3": "LAO",
+      "continent": "Asia",
+      "capital": "Vientián",
+      "population": 7700000,
+      "area_km2": 236800,
+      "official_language": "Lao",
+      "currency": "Kip lao",
+      "landmarks": [
+        "Templo de Wat Xieng Thong"
+      ],
+      "hints": [
+        "Unico pais de Sudeste Asiatico sin salida al mar",
+        "Atravesado por el rio Mekong"
+      ],
+      "flag_emoji": "🇱🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/la/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/la.png"
+    },
+    {
+      "name": "Libano",
+      "iso2": "LB",
+      "iso3": "LBN",
+      "continent": "Asia",
+      "capital": "Beirut",
+      "population": 5400000,
+      "area_km2": 10452,
+      "official_language": "Arabe",
+      "currency": "Libra libanesa",
+      "landmarks": [
+        "Ruinas de Baalbek"
+      ],
+      "hints": [
+        "Pais pequeno con gran diversidad religiosa",
+        "Conocido por sus cedros, simbolo nacional"
+      ],
+      "flag_emoji": "🇱🇧",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lb/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/lb.png"
+    },
+    {
+      "name": "Malasia",
+      "iso2": "MY",
+      "iso3": "MYS",
+      "continent": "Asia",
+      "capital": "Kuala Lumpur",
+      "population": 34300000,
+      "area_km2": 330803,
+      "official_language": "Malayo",
+      "currency": "Ringgit malayo",
+      "landmarks": [
+        "Torres Petronas"
+      ],
+      "hints": [
+        "Dividido entre la peninsula malaya y la isla de Borneo",
+        "Las Torres Petronas fueron las mas altas del mundo"
+      ],
+      "flag_emoji": "🇲🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/my/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/my.png"
+    },
+    {
+      "name": "Maldivas",
+      "iso2": "MV",
+      "iso3": "MDV",
+      "continent": "Asia",
+      "capital": "Malé",
+      "population": 520000,
+      "area_km2": 298,
+      "official_language": "Divehi",
+      "currency": "Rufiyaa",
+      "landmarks": [
+        "Atolones de coral"
+      ],
+      "hints": [
+        "Formado por cerca de 1200 islas de coral",
+        "Uno de los paises con menor altitud del mundo"
+      ],
+      "flag_emoji": "🇲🇻",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mv/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mv.png"
+    },
+    {
+      "name": "Mongolia",
+      "iso2": "MN",
+      "iso3": "MNG",
+      "continent": "Asia",
+      "capital": "Ulán Bator",
+      "population": 3400000,
+      "area_km2": 1564110,
+      "official_language": "Mongol",
+      "currency": "Tugrik",
+      "landmarks": [
+        "Estepas de Mongolia"
+      ],
+      "hints": [
+        "Uno de los paises con menor densidad de poblacion del mundo",
+        "Cuna del imperio de Genghis Khan"
+      ],
+      "flag_emoji": "🇲🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mn.png"
+    },
+    {
+      "name": "Myanmar (Birmania)",
+      "iso2": "MM",
+      "iso3": "MMR",
+      "continent": "Asia",
+      "capital": "Naipyidó",
+      "population": 54700000,
+      "area_km2": 676578,
+      "official_language": "Birmano",
+      "currency": "Kyat",
+      "landmarks": [
+        "Pagoda Shwedagon"
+      ],
+      "hints": [
+        "Tambien conocido como Birmania",
+        "Miles de templos en la llanura de Bagan"
+      ],
+      "flag_emoji": "🇲🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mm.png"
+    },
+    {
+      "name": "Nepal",
+      "iso2": "NP",
+      "iso3": "NPL",
+      "continent": "Asia",
+      "capital": "Katmandú",
+      "population": 30900000,
+      "area_km2": 147181,
+      "official_language": "Nepali",
+      "currency": "Rupia nepali",
+      "landmarks": [
+        "Monte Everest"
+      ],
+      "hints": [
+        "Alberga el pico mas alto del mundo, el Everest",
+        "Situado entre India y China, en el Himalaya"
+      ],
+      "flag_emoji": "🇳🇵",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/np/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/np.png"
+    },
+    {
+      "name": "Oman",
+      "iso2": "OM",
+      "iso3": "OMN",
+      "continent": "Asia",
+      "capital": "Mascate",
+      "population": 4600000,
+      "area_km2": 309500,
+      "official_language": "Arabe",
+      "currency": "Rial omani",
+      "landmarks": [
+        "Fuerte de Nizwa"
+      ],
+      "hints": [
+        "Situado en la punta sureste de la peninsula arabiga",
+        "Controla el estrecho de Ormuz junto a Iran"
+      ],
+      "flag_emoji": "🇴🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/om/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/om.png"
+    },
+    {
+      "name": "Pakistan",
+      "iso2": "PK",
+      "iso3": "PAK",
+      "continent": "Asia",
+      "capital": "Islamabad",
+      "population": 240500000,
+      "area_km2": 881913,
+      "official_language": "Urdu/Ingles",
+      "currency": "Rupia pakistani",
+      "landmarks": [
+        "Mezquita Badshahi"
+      ],
+      "hints": [
+        "Quinto pais mas poblado del mundo",
+        "El K2, segundo pico mas alto del mundo, esta aqui"
+      ],
+      "flag_emoji": "🇵🇰",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pk/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/pk.png"
+    },
+    {
+      "name": "Palestina",
+      "iso2": "PS",
+      "iso3": "PSE",
+      "continent": "Asia",
+      "capital": "Ramala/Jerusalen Este",
+      "population": 5400000,
+      "area_km2": 6020,
+      "official_language": "Arabe",
+      "currency": "Shekel/Dinar jordano",
+      "landmarks": [
+        "Iglesia de la Natividad (Belén)"
+      ],
+      "hints": [
+        "Estado observador no miembro de la ONU",
+        "Formado por Cisjordania y la Franja de Gaza"
+      ],
+      "flag_emoji": "🇵🇸",
+      "map_image_url": null,
+      "flag_image_url": "https://flagcdn.com/w320/ps.png"
+    },
+    {
+      "name": "Singapur",
+      "iso2": "SG",
+      "iso3": "SGP",
+      "continent": "Asia",
+      "capital": "Singapur",
+      "population": 5900000,
+      "area_km2": 728,
+      "official_language": "Ingles/Malayo/Mandarin/Tamil",
+      "currency": "Dolar de Singapur",
+      "landmarks": [
+        "Marina Bay Sands"
+      ],
+      "hints": [
+        "Ciudad-estado y uno de los paises mas pequenos del mundo",
+        "Uno de los principales centros financieros de Asia"
+      ],
+      "flag_emoji": "🇸🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sg.png"
+    },
+    {
+      "name": "Siria",
+      "iso2": "SY",
+      "iso3": "SYR",
+      "continent": "Asia",
+      "capital": "Damasco",
+      "population": 23200000,
+      "area_km2": 185180,
+      "official_language": "Arabe",
+      "currency": "Libra siria",
+      "landmarks": [
+        "Ciudadela de Alepo"
+      ],
+      "hints": [
+        "Damasco es una de las ciudades habitadas mas antiguas del mundo",
+        "Pais afectado por un largo conflicto"
+      ],
+      "flag_emoji": "🇸🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sy/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sy.png"
+    },
+    {
+      "name": "Sri Lanka",
+      "iso2": "LK",
+      "iso3": "LKA",
+      "continent": "Asia",
+      "capital": "Sri Jayawardenapura Kotte",
+      "population": 22000000,
+      "area_km2": 65610,
+      "official_language": "Cingalés/Tamil",
+      "currency": "Rupia de Sri Lanka",
+      "landmarks": [
+        "Roca de Sigiriya"
+      ],
+      "hints": [
+        "Isla al sur de la India",
+        "Gran productor de te"
+      ],
+      "flag_emoji": "🇱🇰",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lk/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/lk.png"
+    },
+    {
+      "name": "Tailandia",
+      "iso2": "TH",
+      "iso3": "THA",
+      "continent": "Asia",
+      "capital": "Bangkok",
+      "population": 71700000,
+      "area_km2": 513120,
+      "official_language": "Tailandes",
+      "currency": "Baht",
+      "landmarks": [
+        "Gran Palacio de Bangkok"
+      ],
+      "hints": [
+        "Nunca fue colonizado por potencias europeas",
+        "Famoso por sus templos budistas"
+      ],
+      "flag_emoji": "🇹🇭",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/th/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/th.png"
+    },
+    {
+      "name": "Tayikistán",
+      "iso2": "TJ",
+      "iso3": "TJK",
+      "continent": "Asia",
+      "capital": "Dusambé",
+      "population": 10100000,
+      "area_km2": 143100,
+      "official_language": "Tayiko",
+      "currency": "Somoni",
+      "landmarks": [
+        "Montanas del Pamir"
+      ],
+      "hints": [
+        "Pais muy montanoso de Asia Central",
+        "El Pamir se conoce como el 'techo del mundo'"
+      ],
+      "flag_emoji": "🇹🇯",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tj/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tj.png"
+    },
+    {
+      "name": "Timor Oriental",
+      "iso2": "TL",
+      "iso3": "TLS",
+      "continent": "Asia",
+      "capital": "Dili",
+      "population": 1400000,
+      "area_km2": 14874,
+      "official_language": "Portugues/Tetum",
+      "currency": "Dolar estadounidense",
+      "landmarks": [
+        "Cristo Rei de Dili"
+      ],
+      "hints": [
+        "Uno de los paises mas jovenes de Asia, independiente en 2002",
+        "Comparte isla con Indonesia"
+      ],
+      "flag_emoji": "🇹🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tl/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tl.png"
+    },
+    {
+      "name": "Turkmenistán",
+      "iso2": "TM",
+      "iso3": "TKM",
+      "continent": "Asia",
+      "capital": "Asjabad",
+      "population": 6400000,
+      "area_km2": 488100,
+      "official_language": "Turcomano",
+      "currency": "Manat turcomano",
+      "landmarks": [
+        "Cráter de gas de Darvaza (Puerta del Infierno)"
+      ],
+      "hints": [
+        "Gran parte de su territorio es el desierto de Karakum",
+        "El crater de Darvaza lleva ardiendo desde los anos 70"
+      ],
+      "flag_emoji": "🇹🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tm.png"
+    },
+    {
+      "name": "Turquia",
+      "iso2": "TR",
+      "iso3": "TUR",
+      "continent": "Asia",
+      "capital": "Ankara",
+      "population": 85300000,
+      "area_km2": 783562,
+      "official_language": "Turco",
+      "currency": "Lira turca",
+      "landmarks": [
+        "Santa Sofia (Estambul)"
+      ],
+      "hints": [
+        "Pais transcontinental entre Europa y Asia",
+        "Estambul une los dos continentes"
+      ],
+      "flag_emoji": "🇹🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tr.png"
+    },
+    {
+      "name": "Uzbekistán",
+      "iso2": "UZ",
+      "iso3": "UZB",
+      "continent": "Asia",
+      "capital": "Taskent",
+      "population": 35600000,
+      "area_km2": 447400,
+      "official_language": "Uzbeko",
+      "currency": "Som uzbeko",
+      "landmarks": [
+        "Registán de Samarcanda"
+      ],
+      "hints": [
+        "Uno de los dos unicos paises del mundo doblemente sin salida al mar",
+        "Samarcanda fue clave en la Ruta de la Seda"
+      ],
+      "flag_emoji": "🇺🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/uz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/uz.png"
+    },
+    {
+      "name": "Vietnam",
+      "iso2": "VN",
+      "iso3": "VNM",
+      "continent": "Asia",
+      "capital": "Hanoi",
+      "population": 99400000,
+      "area_km2": 331212,
+      "official_language": "Vietnamita",
+      "currency": "Dong",
+      "landmarks": [
+        "Bahia de Ha Long"
+      ],
+      "hints": [
+        "Alargado y estrecho, junto al Mar de China Meridional",
+        "La bahia de Ha Long tiene miles de islotes de piedra caliza"
+      ],
+      "flag_emoji": "🇻🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/vn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/vn.png"
+    },
+    {
+      "name": "Yemen",
+      "iso2": "YE",
+      "iso3": "YEM",
+      "continent": "Asia",
+      "capital": "Saná",
+      "population": 34400000,
+      "area_km2": 527968,
+      "official_language": "Arabe",
+      "currency": "Rial yemeni",
+      "landmarks": [
+        "Ciudad vieja de Saná"
+      ],
+      "hints": [
+        "Situado en el extremo sur de la peninsula arabiga",
+        "La ciudad vieja de Sana tiene edificios de varios pisos de barro"
+      ],
+      "flag_emoji": "🇾🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ye/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ye.png"
+    },
+    {
+      "name": "Albania",
+      "iso2": "AL",
+      "iso3": "ALB",
+      "continent": "Europa",
+      "capital": "Tirana",
+      "population": 2800000,
+      "area_km2": 28748,
+      "official_language": "Albanes",
+      "currency": "Lek albanes",
+      "landmarks": [
+        "Castillo de Gjirokastra"
+      ],
+      "hints": [
+        "Pais montanoso en los Balcanes",
+        "Costa en el Adriatico y el Jonico"
+      ],
+      "flag_emoji": "🇦🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/al/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/al.png"
+    },
+    {
+      "name": "Alemania",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "continent": "Europa",
+      "capital": "Berlin",
+      "population": 84500000,
+      "area_km2": 357022,
+      "official_language": "Aleman",
+      "currency": "Euro",
+      "landmarks": [
+        "Puerta de Brandeburgo"
+      ],
+      "hints": [
+        "El pais mas poblado de la Union Europea",
+        "Estuvo dividido en dos por el Muro de Berlin"
+      ],
+      "flag_emoji": "🇩🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/de/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/de.png"
+    },
+    {
+      "name": "Andorra",
+      "iso2": "AD",
+      "iso3": "AND",
+      "continent": "Europa",
+      "capital": "Andorra la Vieja",
+      "population": 80000,
+      "area_km2": 468,
+      "official_language": "Catalan",
+      "currency": "Euro",
+      "landmarks": [
+        "Casa de la Vall"
+      ],
+      "hints": [
+        "Diminuto pais entre Espana y Francia, en los Pirineos",
+        "Sin ejercito propio"
+      ],
+      "flag_emoji": "🇦🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ad/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ad.png"
+    },
+    {
+      "name": "Austria",
+      "iso2": "AT",
+      "iso3": "AUT",
+      "continent": "Europa",
+      "capital": "Viena",
+      "population": 9100000,
+      "area_km2": 83879,
+      "official_language": "Aleman",
+      "currency": "Euro",
+      "landmarks": [
+        "Palacio de Schonbrunn"
+      ],
+      "hints": [
+        "Cuna de compositores como Mozart",
+        "Pais alpino sin salida al mar"
+      ],
+      "flag_emoji": "🇦🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/at/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/at.png"
+    },
+    {
+      "name": "Belarús",
+      "iso2": "BY",
+      "iso3": "BLR",
+      "continent": "Europa",
+      "capital": "Minsk",
+      "population": 9400000,
+      "area_km2": 207600,
+      "official_language": "Bielorruso/Ruso",
+      "currency": "Rublo bielorruso",
+      "landmarks": [
+        "Fortaleza de Brest"
+      ],
+      "hints": [
+        "Pais sin salida al mar en el este de Europa",
+        "Estrecha relacion politica con Rusia"
+      ],
+      "flag_emoji": "🇧🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/by/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/by.png"
+    },
+    {
+      "name": "Belgica",
+      "iso2": "BE",
+      "iso3": "BEL",
+      "continent": "Europa",
+      "capital": "Bruselas",
+      "population": 11700000,
+      "area_km2": 30528,
+      "official_language": "Neerlandes/Frances/Aleman",
+      "currency": "Euro",
+      "landmarks": [
+        "Grand Place de Bruselas"
+      ],
+      "hints": [
+        "Sede de las principales instituciones de la Union Europea",
+        "Famosa por su chocolate y sus gofres"
+      ],
+      "flag_emoji": "🇧🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/be/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/be.png"
+    },
+    {
+      "name": "Bosnia y Herzegovina",
+      "iso2": "BA",
+      "iso3": "BIH",
+      "continent": "Europa",
+      "capital": "Sarajevo",
+      "population": 3200000,
+      "area_km2": 51197,
+      "official_language": "Bosnio/Croata/Serbio",
+      "currency": "Marco convertible",
+      "landmarks": [
+        "Puente Viejo de Mostar"
+      ],
+      "hints": [
+        "Aqui empezo la Primera Guerra Mundial (asesinato de Sarajevo)",
+        "Situado en los Balcanes"
+      ],
+      "flag_emoji": "🇧🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ba/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ba.png"
+    },
+    {
+      "name": "Bulgaria",
+      "iso2": "BG",
+      "iso3": "BGR",
+      "continent": "Europa",
+      "capital": "Sofia",
+      "population": 6800000,
+      "area_km2": 110879,
+      "official_language": "Bulgaro",
+      "currency": "Lev bulgaro",
+      "landmarks": [
+        "Montes Ródope"
+      ],
+      "hints": [
+        "Uno de los paises mas antiguos de Europa, fundado en 681",
+        "Frontera con el Mar Negro"
+      ],
+      "flag_emoji": "🇧🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bg.png"
+    },
+    {
+      "name": "Chequia",
+      "iso2": "CZ",
+      "iso3": "CZE",
+      "continent": "Europa",
+      "capital": "Praga",
+      "population": 10900000,
+      "area_km2": 78871,
+      "official_language": "Checo",
+      "currency": "Corona checa",
+      "landmarks": [
+        "Castillo de Praga"
+      ],
+      "hints": [
+        "Antes formaba, junto a Eslovaquia, Checoslovaquia",
+        "Praga es conocida como la 'ciudad de las cien torres'"
+      ],
+      "flag_emoji": "🇨🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cz.png"
+    },
+    {
+      "name": "Chipre",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "continent": "Europa",
+      "capital": "Nicosia",
+      "population": 1300000,
+      "area_km2": 9251,
+      "official_language": "Griego/Turco",
+      "currency": "Euro",
+      "landmarks": [
+        "Ruinas de Kourion"
+      ],
+      "hints": [
+        "Tambien se considera parte de Asia",
+        "Isla dividida en dos"
+      ],
+      "flag_emoji": "🇨🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cy/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cy.png"
+    },
+    {
+      "name": "Croacia",
+      "iso2": "HR",
+      "iso3": "HRV",
+      "continent": "Europa",
+      "capital": "Zagreb",
+      "population": 3900000,
+      "area_km2": 56594,
+      "official_language": "Croata",
+      "currency": "Euro",
+      "landmarks": [
+        "Parque Nacional de los Lagos de Plitvice"
+      ],
+      "hints": [
+        "Costa muy recortada en el Adriatico, con miles de islas",
+        "La serie Juego de Tronos se rodo en Dubrovnik"
+      ],
+      "flag_emoji": "🇭🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/hr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/hr.png"
+    },
+    {
+      "name": "Dinamarca",
+      "iso2": "DK",
+      "iso3": "DNK",
+      "continent": "Europa",
+      "capital": "Copenhague",
+      "population": 6000000,
+      "area_km2": 42933,
+      "official_language": "Danes",
+      "currency": "Corona danesa",
+      "landmarks": [
+        "La Sirenita de Copenhague"
+      ],
+      "hints": [
+        "Pais nordico formado por una peninsula y varias islas",
+        "Groenlandia y las Islas Feroe son territorios daneses"
+      ],
+      "flag_emoji": "🇩🇰",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/dk/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/dk.png"
+    },
+    {
+      "name": "Eslovaquia",
+      "iso2": "SK",
+      "iso3": "SVK",
+      "continent": "Europa",
+      "capital": "Bratislava",
+      "population": 5400000,
+      "area_km2": 49035,
+      "official_language": "Eslovaco",
+      "currency": "Euro",
+      "landmarks": [
+        "Castillo de Bratislava"
+      ],
+      "hints": [
+        "Se separo de Chequia en 1993 de forma pacifica",
+        "Pais montanoso con los Cárpatos"
+      ],
+      "flag_emoji": "🇸🇰",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sk/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sk.png"
+    },
+    {
+      "name": "Eslovenia",
+      "iso2": "SI",
+      "iso3": "SVN",
+      "continent": "Europa",
+      "capital": "Liubliana",
+      "population": 2100000,
+      "area_km2": 20273,
+      "official_language": "Esloveno",
+      "currency": "Euro",
+      "landmarks": [
+        "Lago Bled"
+      ],
+      "hints": [
+        "Pequeno pais alpino, antigua republica yugoslava",
+        "Tiene una pequena pero preciosa costa adriatica"
+      ],
+      "flag_emoji": "🇸🇮",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/si/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/si.png"
+    },
+    {
+      "name": "Espana",
+      "iso2": "ES",
+      "iso3": "ESP",
+      "continent": "Europa",
+      "capital": "Madrid",
+      "population": 48600000,
+      "area_km2": 505990,
+      "official_language": "Espanol",
+      "currency": "Euro",
+      "landmarks": [
+        "Alhambra de Granada"
+      ],
+      "hints": [
+        "Segundo pais de la UE con mas patrimonio de la Unesco",
+        "Comparte peninsula con Portugal"
+      ],
+      "flag_emoji": "🇪🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/es/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/es.png"
+    },
+    {
+      "name": "Estonia",
+      "iso2": "EE",
+      "iso3": "EST",
+      "continent": "Europa",
+      "capital": "Tallin",
+      "population": 1300000,
+      "area_km2": 45227,
+      "official_language": "Estonio",
+      "currency": "Euro",
+      "landmarks": [
+        "Casco antiguo de Tallin"
+      ],
+      "hints": [
+        "El mas al norte de los paises balticos",
+        "Pionero mundial en administracion digital"
+      ],
+      "flag_emoji": "🇪🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ee/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ee.png"
+    },
+    {
+      "name": "Finlandia",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "continent": "Europa",
+      "capital": "Helsinki",
+      "population": 5600000,
+      "area_km2": 338424,
+      "official_language": "Finlandes/Sueco",
+      "currency": "Euro",
+      "landmarks": [
+        "Miles de lagos finlandeses"
+      ],
+      "hints": [
+        "Conocido como la 'tierra de los mil lagos'",
+        "Frontera muy extensa con Rusia"
+      ],
+      "flag_emoji": "🇫🇮",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/fi/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/fi.png"
+    },
+    {
+      "name": "Francia",
+      "iso2": "FR",
+      "iso3": "FRA",
+      "continent": "Europa",
+      "capital": "Paris",
+      "population": 68000000,
+      "area_km2": 551695,
+      "official_language": "Frances",
+      "currency": "Euro",
+      "landmarks": [
+        "Torre Eiffel"
+      ],
+      "hints": [
+        "Pais mas visitado del mundo por turistas",
+        "Tiene territorios de ultramar en varios continentes"
+      ],
+      "flag_emoji": "🇫🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/fr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/fr.png"
+    },
+    {
+      "name": "Grecia",
+      "iso2": "GR",
+      "iso3": "GRC",
+      "continent": "Europa",
+      "capital": "Atenas",
+      "population": 10400000,
+      "area_km2": 131957,
+      "official_language": "Griego",
+      "currency": "Euro",
+      "landmarks": [
+        "Partenón"
+      ],
+      "hints": [
+        "Cuna de la democracia y los Juegos Olimpicos",
+        "Miles de islas en el Egeo y el Jonico"
+      ],
+      "flag_emoji": "🇬🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gr.png"
+    },
+    {
+      "name": "Hungria",
+      "iso2": "HU",
+      "iso3": "HUN",
+      "continent": "Europa",
+      "capital": "Budapest",
+      "population": 9600000,
+      "area_km2": 93028,
+      "official_language": "Hungaro",
+      "currency": "Florin hungaro",
+      "landmarks": [
+        "Parlamento de Budapest"
+      ],
+      "hints": [
+        "El hungaro es una lengua muy distinta al resto de Europa",
+        "Budapest se formo al unir Buda y Pest"
+      ],
+      "flag_emoji": "🇭🇺",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/hu/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/hu.png"
+    },
+    {
+      "name": "Irlanda",
+      "iso2": "IE",
+      "iso3": "IRL",
+      "continent": "Europa",
+      "capital": "Dublin",
+      "population": 5200000,
+      "area_km2": 70273,
+      "official_language": "Irlandes/Ingles",
+      "currency": "Euro",
+      "landmarks": [
+        "Acantilados de Moher"
+      ],
+      "hints": [
+        "Conocida como la 'isla esmeralda' por su verde paisaje",
+        "Comparte isla con Irlanda del Norte (Reino Unido)"
+      ],
+      "flag_emoji": "🇮🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ie/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ie.png"
+    },
+    {
+      "name": "Islandia",
+      "iso2": "IS",
+      "iso3": "ISL",
+      "continent": "Europa",
+      "capital": "Reikiavik",
+      "population": 390000,
+      "area_km2": 103000,
+      "official_language": "Islandes",
+      "currency": "Corona islandesa",
+      "landmarks": [
+        "Géiser Strokkur"
+      ],
+      "hints": [
+        "Isla volcanica en el Atlantico Norte",
+        "Uno de los paises menos poblados de Europa"
+      ],
+      "flag_emoji": "🇮🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/is/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/is.png"
+    },
+    {
+      "name": "Italia",
+      "iso2": "IT",
+      "iso3": "ITA",
+      "continent": "Europa",
+      "capital": "Roma",
+      "population": 59000000,
+      "area_km2": 301340,
+      "official_language": "Italiano",
+      "currency": "Euro",
+      "landmarks": [
+        "Coliseo de Roma"
+      ],
+      "hints": [
+        "Tiene forma de bota",
+        "El pais con mas sitios Patrimonio de la Humanidad del mundo"
+      ],
+      "flag_emoji": "🇮🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/it/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/it.png"
+    },
+    {
+      "name": "Letonia",
+      "iso2": "LV",
+      "iso3": "LVA",
+      "continent": "Europa",
+      "capital": "Riga",
+      "population": 1800000,
+      "area_km2": 64589,
+      "official_language": "Letón",
+      "currency": "Euro",
+      "landmarks": [
+        "Casco antiguo de Riga"
+      ],
+      "hints": [
+        "Uno de los tres paises balticos",
+        "Gran parte de su territorio son bosques"
+      ],
+      "flag_emoji": "🇱🇻",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lv/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/lv.png"
+    },
+    {
+      "name": "Liechtenstein",
+      "iso2": "LI",
+      "iso3": "LIE",
+      "continent": "Europa",
+      "capital": "Vaduz",
+      "population": 40000,
+      "area_km2": 160,
+      "official_language": "Aleman",
+      "currency": "Franco suizo",
+      "landmarks": [
+        "Castillo de Vaduz"
+      ],
+      "hints": [
+        "Uno de los paises mas pequenos del mundo",
+        "Doblemente sin salida al mar (entre Suiza y Austria)"
+      ],
+      "flag_emoji": "🇱🇮",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/li/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/li.png"
+    },
+    {
+      "name": "Lituania",
+      "iso2": "LT",
+      "iso3": "LTU",
+      "continent": "Europa",
+      "capital": "Vilna",
+      "population": 2800000,
+      "area_km2": 65300,
+      "official_language": "Lituano",
+      "currency": "Euro",
+      "landmarks": [
+        "Casco antiguo de Vilna"
+      ],
+      "hints": [
+        "El mas grande y poblado de los paises balticos",
+        "Antiguo gran ducado medieval"
+      ],
+      "flag_emoji": "🇱🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lt/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/lt.png"
+    },
+    {
+      "name": "Luxemburgo",
+      "iso2": "LU",
+      "iso3": "LUX",
+      "continent": "Europa",
+      "capital": "Luxemburgo",
+      "population": 660000,
+      "area_km2": 2586,
+      "official_language": "Luxemburgues/Frances/Aleman",
+      "currency": "Euro",
+      "landmarks": [
+        "Casamatas de Bock"
+      ],
+      "hints": [
+        "Uno de los paises mas pequenos de la UE",
+        "Renta per capita entre las mas altas del mundo"
+      ],
+      "flag_emoji": "🇱🇺",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lu/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/lu.png"
+    },
+    {
+      "name": "Malta",
+      "iso2": "MT",
+      "iso3": "MLT",
+      "continent": "Europa",
+      "capital": "La Valeta",
+      "population": 540000,
+      "area_km2": 316,
+      "official_language": "Maltes/Ingles",
+      "currency": "Euro",
+      "landmarks": [
+        "Templos megaliticos de Malta"
+      ],
+      "hints": [
+        "Pequeno archipielago en el Mediterraneo, al sur de Sicilia",
+        "Uno de los paises mas densamente poblados del mundo"
+      ],
+      "flag_emoji": "🇲🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mt/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mt.png"
+    },
+    {
+      "name": "Moldavia",
+      "iso2": "MD",
+      "iso3": "MDA",
+      "continent": "Europa",
+      "capital": "Chisináu",
+      "population": 2500000,
+      "area_km2": 33846,
+      "official_language": "Rumano",
+      "currency": "Leu moldavo",
+      "landmarks": [
+        "Monasterio de Orheiul Vechi"
+      ],
+      "hints": [
+        "Situado entre Rumania y Ucrania",
+        "Region de Transnistria con conflicto separatista"
+      ],
+      "flag_emoji": "🇲🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/md/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/md.png"
+    },
+    {
+      "name": "Monaco",
+      "iso2": "MC",
+      "iso3": "MCO",
+      "continent": "Europa",
+      "capital": "Mónaco",
+      "population": 39000,
+      "area_km2": 2.1,
+      "official_language": "Frances",
+      "currency": "Euro",
+      "landmarks": [
+        "Casino de Montecarlo"
+      ],
+      "hints": [
+        "Segundo pais mas pequeno del mundo",
+        "Famoso por su Gran Premio de Formula 1"
+      ],
+      "flag_emoji": "🇲🇨",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mc/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mc.png"
+    },
+    {
+      "name": "Montenegro",
+      "iso2": "ME",
+      "iso3": "MNE",
+      "continent": "Europa",
+      "capital": "Podgorica",
+      "population": 620000,
+      "area_km2": 13812,
+      "official_language": "Montenegrino",
+      "currency": "Euro",
+      "landmarks": [
+        "Bahia de Kotor"
+      ],
+      "hints": [
+        "Su nombre significa 'montana negra'",
+        "Costa espectacular en el Adriatico"
+      ],
+      "flag_emoji": "🇲🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/me/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/me.png"
+    },
+    {
+      "name": "Noruega",
+      "iso2": "NO",
+      "iso3": "NOR",
+      "continent": "Europa",
+      "capital": "Oslo",
+      "population": 5500000,
+      "area_km2": 323802,
+      "official_language": "Noruego",
+      "currency": "Corona noruega",
+      "landmarks": [
+        "Fiordos noruegos"
+      ],
+      "hints": [
+        "Famoso por sus fiordos",
+        "No pertenece a la Union Europea"
+      ],
+      "flag_emoji": "🇳🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/no/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/no.png"
+    },
+    {
+      "name": "Paises Bajos",
+      "iso2": "NL",
+      "iso3": "NLD",
+      "continent": "Europa",
+      "capital": "Amsterdam",
+      "population": 17900000,
+      "area_km2": 41850,
+      "official_language": "Neerlandes",
+      "currency": "Euro",
+      "landmarks": [
+        "Molinos de Kinderdijk"
+      ],
+      "hints": [
+        "Gran parte de su territorio esta bajo el nivel del mar",
+        "Conocido tambien como Holanda"
+      ],
+      "flag_emoji": "🇳🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/nl/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/nl.png"
+    },
+    {
+      "name": "Polonia",
+      "iso2": "PL",
+      "iso3": "POL",
+      "continent": "Europa",
+      "capital": "Varsovia",
+      "population": 37700000,
+      "area_km2": 312696,
+      "official_language": "Polaco",
+      "currency": "Zloty",
+      "landmarks": [
+        "Casco antiguo de Cracovia"
+      ],
+      "hints": [
+        "Uno de los paises mas grandes de Europa central",
+        "Historia marcada por la Segunda Guerra Mundial"
+      ],
+      "flag_emoji": "🇵🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pl/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/pl.png"
+    },
+    {
+      "name": "Portugal",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "continent": "Europa",
+      "capital": "Lisboa",
+      "population": 10300000,
+      "area_km2": 92212,
+      "official_language": "Portugues",
+      "currency": "Euro",
+      "landmarks": [
+        "Torre de Belém"
+      ],
+      "hints": [
+        "Comparte peninsula iberica con Espana",
+        "Gran potencia de navegantes en el pasado"
+      ],
+      "flag_emoji": "🇵🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pt/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/pt.png"
+    },
+    {
+      "name": "Reino Unido",
+      "iso2": "GB",
+      "iso3": "GBR",
+      "continent": "Europa",
+      "capital": "Londres",
+      "population": 67700000,
+      "area_km2": 242495,
+      "official_language": "Ingles",
+      "currency": "Libra esterlina",
+      "landmarks": [
+        "Big Ben"
+      ],
+      "hints": [
+        "Formado por Inglaterra, Escocia, Gales e Irlanda del Norte",
+        "Salio de la Union Europea en 2020 (Brexit)"
+      ],
+      "flag_emoji": "🇬🇧",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gb/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+      "name": "Rumania",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "continent": "Europa",
+      "capital": "Bucarest",
+      "population": 19000000,
+      "area_km2": 238397,
+      "official_language": "Rumano",
+      "currency": "Leu rumano",
+      "landmarks": [
+        "Castillo de Bran"
+      ],
+      "hints": [
+        "Origen de la leyenda de Dracula",
+        "Los Carpatos atraviesan el pais"
+      ],
+      "flag_emoji": "🇷🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ro/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ro.png"
+    },
+    {
+      "name": "Rusia",
+      "iso2": "RU",
+      "iso3": "RUS",
+      "continent": "Europa/Asia",
+      "capital": "Moscú",
+      "population": 144000000,
+      "area_km2": 17098242,
+      "official_language": "Ruso",
+      "currency": "Rublo ruso",
+      "landmarks": [
+        "Kremlin de Moscú"
+      ],
+      "hints": [
+        "El pais mas grande del mundo, entre Europa y Asia",
+        "Atraviesa 11 husos horarios"
+      ],
+      "flag_emoji": "🇷🇺",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ru/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ru.png"
+    },
+    {
+      "name": "San Marino",
+      "iso2": "SM",
+      "iso3": "SMR",
+      "continent": "Europa",
+      "capital": "San Marino",
+      "population": 34000,
+      "area_km2": 61,
+      "official_language": "Italiano",
+      "currency": "Euro",
+      "landmarks": [
+        "Monte Titano"
+      ],
+      "hints": [
+        "Uno de los paises mas pequenos y antiguos del mundo",
+        "Rodeado completamente por Italia"
+      ],
+      "flag_emoji": "🇸🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sm.png"
+    },
+    {
+      "name": "Serbia",
+      "iso2": "RS",
+      "iso3": "SRB",
+      "continent": "Europa",
+      "capital": "Belgrado",
+      "population": 6600000,
+      "area_km2": 88361,
+      "official_language": "Serbio",
+      "currency": "Dinar serbio",
+      "landmarks": [
+        "Fortaleza de Belgrado"
+      ],
+      "hints": [
+        "Situado en el corazon de los Balcanes",
+        "Sin salida al mar tras la independencia de Montenegro"
+      ],
+      "flag_emoji": "🇷🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/rs/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/rs.png"
+    },
+    {
+      "name": "Suecia",
+      "iso2": "SE",
+      "iso3": "SWE",
+      "continent": "Europa",
+      "capital": "Estocolmo",
+      "population": 10500000,
+      "area_km2": 450295,
+      "official_language": "Sueco",
+      "currency": "Corona sueca",
+      "landmarks": [
+        "Casco antiguo de Estocolmo (Gamla Stan)"
+      ],
+      "hints": [
+        "Pais nordico con miles de islas",
+        "Cuna de grupos como ABBA"
+      ],
+      "flag_emoji": "🇸🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/se/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/se.png"
+    },
+    {
+      "name": "Suiza",
+      "iso2": "CH",
+      "iso3": "CHE",
+      "continent": "Europa",
+      "capital": "Berna",
+      "population": 8800000,
+      "area_km2": 41285,
+      "official_language": "Aleman/Frances/Italiano/Romanche",
+      "currency": "Franco suizo",
+      "landmarks": [
+        "Cervino (Matterhorn)"
+      ],
+      "hints": [
+        "Pais con cuatro idiomas oficiales",
+        "Famoso por sus relojes, chocolate y bancos"
+      ],
+      "flag_emoji": "🇨🇭",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ch/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ch.png"
+    },
+    {
+      "name": "Ucrania",
+      "iso2": "UA",
+      "iso3": "UKR",
+      "continent": "Europa",
+      "capital": "Kiev",
+      "population": 36700000,
+      "area_km2": 603500,
+      "official_language": "Ucraniano",
+      "currency": "Grivna",
+      "landmarks": [
+        "Catedral de Santa Sofia (Kiev)"
+      ],
+      "hints": [
+        "El pais mas grande situado enteramente en Europa",
+        "Conocido como el 'granero de Europa' por su agricultura"
+      ],
+      "flag_emoji": "🇺🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ua/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ua.png"
+    },
+    {
+      "name": "Vaticano",
+      "iso2": "VA",
+      "iso3": "VAT",
+      "continent": "Europa",
+      "capital": "Ciudad del Vaticano",
+      "population": 800,
+      "area_km2": 0.49,
+      "official_language": "Italiano/Latin",
+      "currency": "Euro",
+      "landmarks": [
+        "Basílica de San Pedro"
+      ],
+      "hints": [
+        "El pais mas pequeno del mundo",
+        "Sede de la Iglesia catolica y residencia del Papa"
+      ],
+      "flag_emoji": "🇻🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/va/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/va.png"
+    },
+    {
+      "name": "Antigua y Barbuda",
+      "iso2": "AG",
+      "iso3": "ATG",
+      "continent": "America del Norte",
+      "capital": "Saint John's",
+      "population": 100000,
+      "area_km2": 442,
+      "official_language": "Ingles",
+      "currency": "Dolar del Caribe Oriental",
+      "landmarks": [
+        "Playas de Antigua"
+      ],
+      "hints": [
+        "Formado por dos islas principales en el Caribe",
+        "Tiene fama de tener 365 playas, una por dia"
+      ],
+      "flag_emoji": "🇦🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ag/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ag.png"
+    },
+    {
+      "name": "Bahamas",
+      "iso2": "BS",
+      "iso3": "BHS",
+      "continent": "America del Norte",
+      "capital": "Nasáu",
+      "population": 410000,
+      "area_km2": 13943,
+      "official_language": "Ingles",
+      "currency": "Dolar bahameno",
+      "landmarks": [
+        "Isla Exuma (cerdos nadadores)"
+      ],
+      "hints": [
+        "Archipielago de cientos de islas en el Caribe",
+        "Aguas de color turquesa muy famosas"
+      ],
+      "flag_emoji": "🇧🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bs/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bs.png"
+    },
+    {
+      "name": "Barbados",
+      "iso2": "BB",
+      "iso3": "BRB",
+      "continent": "America del Norte",
+      "capital": "Bridgetown",
+      "population": 280000,
+      "area_km2": 430,
+      "official_language": "Ingles",
+      "currency": "Dolar de Barbados",
+      "landmarks": [
+        "Bridgetown colonial"
+      ],
+      "hints": [
+        "Isla caribena, patria de la cantante Rihanna",
+        "Republica desde 2021, antes monarquia"
+      ],
+      "flag_emoji": "🇧🇧",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bb/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bb.png"
+    },
+    {
+      "name": "Belice",
+      "iso2": "BZ",
+      "iso3": "BLZ",
+      "continent": "America del Norte",
+      "capital": "Belmopán",
+      "population": 410000,
+      "area_km2": 22966,
+      "official_language": "Ingles",
+      "currency": "Dolar beliceno",
+      "landmarks": [
+        "Gran Agujero Azul"
+      ],
+      "hints": [
+        "Unico pais de America Central con el ingles como idioma oficial",
+        "Gran arrecife de coral, el segundo mas grande del mundo"
+      ],
+      "flag_emoji": "🇧🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bz.png"
+    },
+    {
+      "name": "Canada",
+      "iso2": "CA",
+      "iso3": "CAN",
+      "continent": "America del Norte",
+      "capital": "Ottawa",
+      "population": 40100000,
+      "area_km2": 9984670,
+      "official_language": "Ingles/Frances",
+      "currency": "Dolar canadiense",
+      "landmarks": [
+        "Cataratas del Niagara"
+      ],
+      "hints": [
+        "Segundo pais mas grande del mundo por superficie",
+        "Frontera con Estados Unidos, la mas larga del mundo"
+      ],
+      "flag_emoji": "🇨🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ca/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ca.png"
+    },
+    {
+      "name": "Costa Rica",
+      "iso2": "CR",
+      "iso3": "CRI",
+      "continent": "America del Norte",
+      "capital": "San José",
+      "population": 5200000,
+      "area_km2": 51100,
+      "official_language": "Espanol",
+      "currency": "Colón costarricense",
+      "landmarks": [
+        "Volcán Arenal"
+      ],
+      "hints": [
+        "No tiene ejercito desde 1948",
+        "Gran biodiversidad y ecoturismo"
+      ],
+      "flag_emoji": "🇨🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cr.png"
+    },
+    {
+      "name": "Cuba",
+      "iso2": "CU",
+      "iso3": "CUB",
+      "continent": "America del Norte",
+      "capital": "La Habana",
+      "population": 11100000,
+      "area_km2": 109884,
+      "official_language": "Espanol",
+      "currency": "Peso cubano",
+      "landmarks": [
+        "La Habana Vieja"
+      ],
+      "hints": [
+        "La isla mas grande del Caribe",
+        "Famosa por sus coches antiguos y el tabaco"
+      ],
+      "flag_emoji": "🇨🇺",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cu/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cu.png"
+    },
+    {
+      "name": "Dominica",
+      "iso2": "DM",
+      "iso3": "DMA",
+      "continent": "America del Norte",
+      "capital": "Roseau",
+      "population": 73000,
+      "area_km2": 751,
+      "official_language": "Ingles",
+      "currency": "Dolar del Caribe Oriental",
+      "landmarks": [
+        "Boiling Lake"
+      ],
+      "hints": [
+        "Conocida como la 'isla de la naturaleza'",
+        "No confundir con la Republica Dominicana"
+      ],
+      "flag_emoji": "🇩🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/dm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/dm.png"
+    },
+    {
+      "name": "El Salvador",
+      "iso2": "SV",
+      "iso3": "SLV",
+      "continent": "America del Norte",
+      "capital": "San Salvador",
+      "population": 6300000,
+      "area_km2": 21041,
+      "official_language": "Espanol",
+      "currency": "Dolar estadounidense",
+      "landmarks": [
+        "Ruinas de Joya de Cerén"
+      ],
+      "hints": [
+        "El pais mas pequeno de America Central",
+        "Primer pais en adoptar el bitcoin como moneda oficial"
+      ],
+      "flag_emoji": "🇸🇻",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sv/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sv.png"
+    },
+    {
+      "name": "Estados Unidos",
+      "iso2": "US",
+      "iso3": "USA",
+      "continent": "America del Norte",
+      "capital": "Washington D.C.",
+      "population": 334900000,
+      "area_km2": 9833517,
+      "official_language": "Ingles",
+      "currency": "Dolar estadounidense",
+      "landmarks": [
+        "Estatua de la Libertad"
+      ],
+      "hints": [
+        "Formado por 50 estados",
+        "Tercer pais mas poblado del mundo"
+      ],
+      "flag_emoji": "🇺🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/us/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/us.png"
+    },
+    {
+      "name": "Granada",
+      "iso2": "GD",
+      "iso3": "GRD",
+      "continent": "America del Norte",
+      "capital": "Saint George's",
+      "population": 120000,
+      "area_km2": 344,
+      "official_language": "Ingles",
+      "currency": "Dolar del Caribe Oriental",
+      "landmarks": [
+        "Grand Etang"
+      ],
+      "hints": [
+        "Conocida como la 'isla de las especias' por su nuez moscada",
+        "Pequena isla caribena"
+      ],
+      "flag_emoji": "🇬🇩",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gd/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gd.png"
+    },
+    {
+      "name": "Guatemala",
+      "iso2": "GT",
+      "iso3": "GTM",
+      "continent": "America del Norte",
+      "capital": "Ciudad de Guatemala",
+      "population": 18100000,
+      "area_km2": 108889,
+      "official_language": "Espanol",
+      "currency": "Quetzal",
+      "landmarks": [
+        "Tikal"
+      ],
+      "hints": [
+        "El pais mas poblado de America Central",
+        "Cuna de la civilizacion maya"
+      ],
+      "flag_emoji": "🇬🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gt/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gt.png"
+    },
+    {
+      "name": "Haiti",
+      "iso2": "HT",
+      "iso3": "HTI",
+      "continent": "America del Norte",
+      "capital": "Puerto Príncipe",
+      "population": 11700000,
+      "area_km2": 27750,
+      "official_language": "Frances/Criollo haitiano",
+      "currency": "Gourde",
+      "landmarks": [
+        "Ciudadela Laferrière"
+      ],
+      "hints": [
+        "Primer pais latinoamericano en independizarse (1804)",
+        "Comparte la isla La Espanola con Republica Dominicana"
+      ],
+      "flag_emoji": "🇭🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ht/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ht.png"
+    },
+    {
+      "name": "Honduras",
+      "iso2": "HN",
+      "iso3": "HND",
+      "continent": "America del Norte",
+      "capital": "Tegucigalpa",
+      "population": 10600000,
+      "area_km2": 112492,
+      "official_language": "Espanol",
+      "currency": "Lempira",
+      "landmarks": [
+        "Copán"
+      ],
+      "hints": [
+        "Ruinas mayas de Copan",
+        "Gran costa caribena"
+      ],
+      "flag_emoji": "🇭🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/hn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/hn.png"
+    },
+    {
+      "name": "Jamaica",
+      "iso2": "JM",
+      "iso3": "JAM",
+      "continent": "America del Norte",
+      "capital": "Kingston",
+      "population": 2800000,
+      "area_km2": 10991,
+      "official_language": "Ingles",
+      "currency": "Dolar jamaicano",
+      "landmarks": [
+        "Dunn's River Falls"
+      ],
+      "hints": [
+        "Cuna del reggae y de Bob Marley",
+        "Isla montanosa del Caribe"
+      ],
+      "flag_emoji": "🇯🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/jm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/jm.png"
+    },
+    {
+      "name": "Mexico",
+      "iso2": "MX",
+      "iso3": "MEX",
+      "continent": "America del Norte",
+      "capital": "Ciudad de México",
+      "population": 128900000,
+      "area_km2": 1964375,
+      "official_language": "Espanol",
+      "currency": "Peso mexicano",
+      "landmarks": [
+        "Chichén Itzá"
+      ],
+      "hints": [
+        "Pais con mas hablantes de espanol del mundo",
+        "Cuna de aztecas y mayas"
+      ],
+      "flag_emoji": "🇲🇽",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mx/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mx.png"
+    },
+    {
+      "name": "Nicaragua",
+      "iso2": "NI",
+      "iso3": "NIC",
+      "continent": "America del Norte",
+      "capital": "Managua",
+      "population": 6900000,
+      "area_km2": 130373,
+      "official_language": "Espanol",
+      "currency": "Córdoba",
+      "landmarks": [
+        "Lago de Nicaragua"
+      ],
+      "hints": [
+        "El pais mas grande de America Central",
+        "Muchos volcanes activos"
+      ],
+      "flag_emoji": "🇳🇮",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ni/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ni.png"
+    },
+    {
+      "name": "Panama",
+      "iso2": "PA",
+      "iso3": "PAN",
+      "continent": "America del Norte",
+      "capital": "Ciudad de Panamá",
+      "population": 4400000,
+      "area_km2": 75417,
+      "official_language": "Espanol",
+      "currency": "Balboa/Dolar estadounidense",
+      "landmarks": [
+        "Canal de Panamá"
+      ],
+      "hints": [
+        "El canal une el Oceano Atlantico y el Pacifico",
+        "Punto de union entre America del Norte y del Sur"
+      ],
+      "flag_emoji": "🇵🇦",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pa/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/pa.png"
+    },
+    {
+      "name": "Republica Dominicana",
+      "iso2": "DO",
+      "iso3": "DOM",
+      "continent": "America del Norte",
+      "capital": "Santo Domingo",
+      "population": 11300000,
+      "area_km2": 48671,
+      "official_language": "Espanol",
+      "currency": "Peso dominicano",
+      "landmarks": [
+        "Zona Colonial de Santo Domingo"
+      ],
+      "hints": [
+        "Comparte la isla La Espanola con Haiti",
+        "Santo Domingo, primera ciudad europea fundada en America"
+      ],
+      "flag_emoji": "🇩🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/do/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/do.png"
+    },
+    {
+      "name": "San Cristóbal y Nieves",
+      "iso2": "KN",
+      "iso3": "KNA",
+      "continent": "America del Norte",
+      "capital": "Basseterre",
+      "population": 47000,
+      "area_km2": 261,
+      "official_language": "Ingles",
+      "currency": "Dolar del Caribe Oriental",
+      "landmarks": [
+        "Brimstone Hill Fortress"
+      ],
+      "hints": [
+        "El pais mas pequeno de America en superficie y poblacion",
+        "Formado por dos islas"
+      ],
+      "flag_emoji": "🇰🇳",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/kn/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/kn.png"
+    },
+    {
+      "name": "San Vicente y las Granadinas",
+      "iso2": "VC",
+      "iso3": "VCT",
+      "continent": "America del Norte",
+      "capital": "Kingstown",
+      "population": 100000,
+      "area_km2": 389,
+      "official_language": "Ingles",
+      "currency": "Dolar del Caribe Oriental",
+      "landmarks": [
+        "Islas Tobago Cays"
+      ],
+      "hints": [
+        "Formado por la isla principal y un rosario de islotes",
+        "Aqui se filmaron escenas de Piratas del Caribe"
+      ],
+      "flag_emoji": "🇻🇨",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/vc/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/vc.png"
+    },
+    {
+      "name": "Santa Lucía",
+      "iso2": "LC",
+      "iso3": "LCA",
+      "continent": "America del Norte",
+      "capital": "Castries",
+      "population": 180000,
+      "area_km2": 616,
+      "official_language": "Ingles",
+      "currency": "Dolar del Caribe Oriental",
+      "landmarks": [
+        "Los Pitones (Pitons)"
+      ],
+      "hints": [
+        "Dos volcanes gemelos, los Pitones, son su simbolo",
+        "Isla volcanica del Caribe"
+      ],
+      "flag_emoji": "🇱🇨",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lc/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/lc.png"
+    },
+    {
+      "name": "Trinidad y Tobago",
+      "iso2": "TT",
+      "iso3": "TTO",
+      "continent": "America del Norte",
+      "capital": "Puerto Espana",
+      "population": 1500000,
+      "area_km2": 5130,
+      "official_language": "Ingles",
+      "currency": "Dolar de Trinidad y Tobago",
+      "landmarks": [
+        "Pitch Lake"
+      ],
+      "hints": [
+        "Cuna del steelpan y del carnaval caribeno",
+        "Formado por dos islas principales"
+      ],
+      "flag_emoji": "🇹🇹",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/tt/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/tt.png"
+    },
+    {
+      "name": "Argentina",
+      "iso2": "AR",
+      "iso3": "ARG",
+      "continent": "America del Sur",
+      "capital": "Buenos Aires",
+      "population": 45800000,
+      "area_km2": 2780400,
+      "official_language": "Espanol",
+      "currency": "Peso argentino",
+      "landmarks": [
+        "Glaciar Perito Moreno"
+      ],
+      "hints": [
+        "Uno de los mayores productores de carne del mundo",
+        "Las cataratas del Iguazu se comparten con Brasil"
+      ],
+      "flag_emoji": "🇦🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ar/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ar.png"
+    },
+    {
+      "name": "Bolivia",
+      "iso2": "BO",
+      "iso3": "BOL",
+      "continent": "America del Sur",
+      "capital": "Sucre/La Paz",
+      "population": 12200000,
+      "area_km2": 1098581,
+      "official_language": "Espanol/Quechua/Aymara y otros",
+      "currency": "Boliviano",
+      "landmarks": [
+        "Salar de Uyuni"
+      ],
+      "hints": [
+        "Tiene dos capitales, Sucre (constitucional) y La Paz (sede de gobierno)",
+        "El salar de Uyuni es el mayor desierto de sal del mundo"
+      ],
+      "flag_emoji": "🇧🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/bo/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/bo.png"
+    },
+    {
+      "name": "Brasil",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "continent": "America del Sur",
+      "capital": "Brasilia",
+      "population": 216400000,
+      "area_km2": 8515767,
+      "official_language": "Portugues",
+      "currency": "Real brasileno",
+      "landmarks": [
+        "Cristo Redentor"
+      ],
+      "hints": [
+        "El pais mas grande y poblado de Sudamerica",
+        "Alberga la mayor parte de la selva amazonica"
+      ],
+      "flag_emoji": "🇧🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/br/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/br.png"
+    },
+    {
+      "name": "Chile",
+      "iso2": "CL",
+      "iso3": "CHL",
+      "continent": "America del Sur",
+      "capital": "Santiago",
+      "population": 19600000,
+      "area_km2": 756102,
+      "official_language": "Espanol",
+      "currency": "Peso chileno",
+      "landmarks": [
+        "Isla de Pascua"
+      ],
+      "hints": [
+        "Uno de los paises mas largos y estrechos del mundo",
+        "El desierto de Atacama es el mas arido del mundo"
+      ],
+      "flag_emoji": "🇨🇱",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cl/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/cl.png"
+    },
+    {
+      "name": "Colombia",
+      "iso2": "CO",
+      "iso3": "COL",
+      "continent": "America del Sur",
+      "capital": "Bogotá",
+      "population": 52200000,
+      "area_km2": 1141748,
+      "official_language": "Espanol",
+      "currency": "Peso colombiano",
+      "landmarks": [
+        "Ciudad Perdida"
+      ],
+      "hints": [
+        "Unico pais de Sudamerica con costa en el Pacifico y el Caribe",
+        "Gran productor de cafe"
+      ],
+      "flag_emoji": "🇨🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/co/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/co.png"
+    },
+    {
+      "name": "Ecuador",
+      "iso2": "EC",
+      "iso3": "ECU",
+      "continent": "America del Sur",
+      "capital": "Quito",
+      "population": 18200000,
+      "area_km2": 283561,
+      "official_language": "Espanol",
+      "currency": "Dolar estadounidense",
+      "landmarks": [
+        "Islas Galápagos"
+      ],
+      "hints": [
+        "Su nombre viene de la linea del ecuador, que lo atraviesa",
+        "Las islas Galapagos inspiraron a Darwin"
+      ],
+      "flag_emoji": "🇪🇨",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ec/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ec.png"
+    },
+    {
+      "name": "Guyana",
+      "iso2": "GY",
+      "iso3": "GUY",
+      "continent": "America del Sur",
+      "capital": "Georgetown",
+      "population": 830000,
+      "area_km2": 214969,
+      "official_language": "Ingles",
+      "currency": "Dolar guyanes",
+      "landmarks": [
+        "Cataratas Kaieteur"
+      ],
+      "hints": [
+        "Unico pais de Sudamerica con el ingles como idioma oficial",
+        "Gran parte de su territorio es selva"
+      ],
+      "flag_emoji": "🇬🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/gy/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/gy.png"
+    },
+    {
+      "name": "Paraguay",
+      "iso2": "PY",
+      "iso3": "PRY",
+      "continent": "America del Sur",
+      "capital": "Asunción",
+      "population": 6900000,
+      "area_km2": 406752,
+      "official_language": "Espanol/Guarani",
+      "currency": "Guaraní",
+      "landmarks": [
+        "Represa de Itaipú"
+      ],
+      "hints": [
+        "Pais sin salida al mar en el corazon de Sudamerica",
+        "El guarani es idioma oficial junto al espanol"
+      ],
+      "flag_emoji": "🇵🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/py/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/py.png"
+    },
+    {
+      "name": "Perú",
+      "iso2": "PE",
+      "iso3": "PER",
+      "continent": "America del Sur",
+      "capital": "Lima",
+      "population": 34400000,
+      "area_km2": 1285216,
+      "official_language": "Espanol/Quechua/Aymara",
+      "currency": "Sol peruano",
+      "landmarks": [
+        "Machu Picchu"
+      ],
+      "hints": [
+        "Cuna del Imperio Inca",
+        "El lago Titicaca, el navegable mas alto del mundo, se comparte con Bolivia"
+      ],
+      "flag_emoji": "🇵🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pe/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/pe.png"
+    },
+    {
+      "name": "Surinam",
+      "iso2": "SR",
+      "iso3": "SUR",
+      "continent": "America del Sur",
+      "capital": "Paramaribo",
+      "population": 620000,
+      "area_km2": 163820,
+      "official_language": "Neerlandes",
+      "currency": "Dolar surinames",
+      "landmarks": [
+        "Reserva Natural Central de Surinam"
+      ],
+      "hints": [
+        "El pais mas pequeno de Sudamerica",
+        "Antigua colonia neerlandesa, unico con el neerlandes como oficial en la region"
+      ],
+      "flag_emoji": "🇸🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sr.png"
+    },
+    {
+      "name": "Uruguay",
+      "iso2": "UY",
+      "iso3": "URY",
+      "continent": "America del Sur",
+      "capital": "Montevideo",
+      "population": 3400000,
+      "area_km2": 176215,
+      "official_language": "Espanol",
+      "currency": "Peso uruguayo",
+      "landmarks": [
+        "Casco antiguo de Colonia del Sacramento"
+      ],
+      "hints": [
+        "Uno de los paises mas seguros e igualitarios de Sudamerica",
+        "Primer pais del mundo en legalizar totalmente el cannabis"
+      ],
+      "flag_emoji": "🇺🇾",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/uy/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/uy.png"
+    },
+    {
+      "name": "Venezuela",
+      "iso2": "VE",
+      "iso3": "VEN",
+      "continent": "America del Sur",
+      "capital": "Caracas",
+      "population": 28800000,
+      "area_km2": 916445,
+      "official_language": "Espanol",
+      "currency": "Bolivar",
+      "landmarks": [
+        "Salto Ángel"
+      ],
+      "hints": [
+        "El salto Angel es la catarata mas alta del mundo",
+        "Tiene las mayores reservas de petroleo probadas del mundo"
+      ],
+      "flag_emoji": "🇻🇪",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ve/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ve.png"
+    },
+    {
+      "name": "Australia",
+      "iso2": "AU",
+      "iso3": "AUS",
+      "continent": "Oceania",
+      "capital": "Camberra",
+      "population": 26600000,
+      "area_km2": 7692024,
+      "official_language": "Ingles",
+      "currency": "Dolar australiano",
+      "landmarks": [
+        "Ópera de Sídney"
+      ],
+      "hints": [
+        "Es a la vez pais y continente",
+        "Hogar de animales unicos como el canguro y el koala"
+      ],
+      "flag_emoji": "🇦🇺",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/au/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/au.png"
+    },
+    {
+      "name": "Fiyi",
+      "iso2": "FJ",
+      "iso3": "FJI",
+      "continent": "Oceania",
+      "capital": "Suva",
+      "population": 930000,
+      "area_km2": 18274,
+      "official_language": "Ingles/Fiyiano/Hindi fiyiano",
+      "currency": "Dolar fiyiano",
+      "landmarks": [
+        "Islas Mamanuca"
+      ],
+      "hints": [
+        "Archipielago de mas de 300 islas en el Pacifico",
+        "Popular destino de buceo"
+      ],
+      "flag_emoji": "🇫🇯",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/fj/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/fj.png"
+    },
+    {
+      "name": "Islas Marshall",
+      "iso2": "MH",
+      "iso3": "MHL",
+      "continent": "Oceania",
+      "capital": "Majuro",
+      "population": 42000,
+      "area_km2": 181,
+      "official_language": "Marshalés/Ingles",
+      "currency": "Dolar estadounidense",
+      "landmarks": [
+        "Atolón de Bikini"
+      ],
+      "hints": [
+        "Formado por atolones de coral en el Pacifico",
+        "El atolon de Bikini fue escenario de pruebas nucleares"
+      ],
+      "flag_emoji": "🇲🇭",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mh/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mh.png"
+    },
+    {
+      "name": "Islas Salomón",
+      "iso2": "SB",
+      "iso3": "SLB",
+      "continent": "Oceania",
+      "capital": "Honiara",
+      "population": 740000,
+      "area_km2": 28896,
+      "official_language": "Ingles",
+      "currency": "Dolar de las Islas Salomón",
+      "landmarks": [
+        "Guadalcanal"
+      ],
+      "hints": [
+        "Archipielago de cientos de islas en el Pacifico",
+        "Escenario de importantes batallas de la Segunda Guerra Mundial"
+      ],
+      "flag_emoji": "🇸🇧",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/sb/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/sb.png"
+    },
+    {
+      "name": "Kiribati",
+      "iso2": "KI",
+      "iso3": "KIR",
+      "continent": "Oceania",
+      "capital": "Tarawa Sur",
+      "population": 130000,
+      "area_km2": 811,
+      "official_language": "Ingles/Kiribatiano",
+      "currency": "Dolar australiano",
+      "landmarks": [
+        "Atolón de Tarawa"
+      ],
+      "hints": [
+        "Unico pais del mundo situado en los cuatro hemisferios",
+        "Muy amenazado por la subida del nivel del mar"
+      ],
+      "flag_emoji": "🇰🇮",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ki/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ki.png"
+    },
+    {
+      "name": "Micronesia",
+      "iso2": "FM",
+      "iso3": "FSM",
+      "continent": "Oceania",
+      "capital": "Palikir",
+      "population": 100000,
+      "area_km2": 702,
+      "official_language": "Ingles",
+      "currency": "Dolar estadounidense",
+      "landmarks": [
+        "Ruinas de Nan Madol"
+      ],
+      "hints": [
+        "Formado por cientos de islas volcanicas y atolones",
+        "Nan Madol se conoce como la 'Venecia del Pacifico'"
+      ],
+      "flag_emoji": "🇫🇲",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/fm/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/fm.png"
+    },
+    {
+      "name": "Nauru",
+      "iso2": "NR",
+      "iso3": "NRU",
+      "continent": "Oceania",
+      "capital": "Yaren",
+      "population": 12000,
+      "area_km2": 21,
+      "official_language": "Nauruano/Ingles",
+      "currency": "Dolar australiano",
+      "landmarks": [
+        "Minas de fosfato"
+      ],
+      "hints": [
+        "El tercer pais mas pequeno del mundo",
+        "No tiene capital oficial designada"
+      ],
+      "flag_emoji": "🇳🇷",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/nr/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/nr.png"
+    },
+    {
+      "name": "Nueva Zelanda",
+      "iso2": "NZ",
+      "iso3": "NZL",
+      "continent": "Oceania",
+      "capital": "Wellington",
+      "population": 5200000,
+      "area_km2": 270467,
+      "official_language": "Ingles/Maori",
+      "currency": "Dolar neozelandes",
+      "landmarks": [
+        "Milford Sound"
+      ],
+      "hints": [
+        "Formado por dos islas principales",
+        "Pueblo indigena maori con gran presencia cultural"
+      ],
+      "flag_emoji": "🇳🇿",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/nz/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/nz.png"
+    },
+    {
+      "name": "Palaos",
+      "iso2": "PW",
+      "iso3": "PLW",
+      "continent": "Oceania",
+      "capital": "Ngerulmud",
+      "population": 18000,
+      "area_km2": 459,
+      "official_language": "Palauano/Ingles",
+      "currency": "Dolar estadounidense",
+      "landmarks": [
+        "Lago de las Medusas"
+      ],
+      "hints": [
+        "Archipielago con un lago donde se puede nadar entre medusas sin picadura",
+        "Gran destino de buceo"
+      ],
+      "flag_emoji": "🇵🇼",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pw/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/pw.png"
+    },
+    {
+      "name": "Papúa Nueva Guinea",
+      "iso2": "PG",
+      "iso3": "PNG",
+      "continent": "Oceania",
+      "capital": "Puerto Moresby",
+      "population": 10500000,
+      "area_km2": 462840,
+      "official_language": "Ingles/Tok Pisin/Hiri Motu",
+      "currency": "Kina",
+      "landmarks": [
+        "Monte Wilhelm"
+      ],
+      "hints": [
+        "Uno de los paises con mayor diversidad linguistica del mundo",
+        "Comparte isla con la provincia indonesia de Papua"
+      ],
+      "flag_emoji": "🇵🇬",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/pg/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/pg.png"
+    },
+    {
+      "name": "Samoa",
+      "iso2": "WS",
+      "iso3": "WSM",
+      "continent": "Oceania",
+      "capital": "Apia",
+      "population": 220000,
+      "area_km2": 2842,
+      "official_language": "Samoano/Ingles",
+      "currency": "Tala samoano",
+      "landmarks": [
+        "Piscinas de To Sua"
+      ],
+      "hints": [
+        "Formado por dos islas principales en la Polinesia",
+        "Cultura polinesia muy conservada"
+      ],
+      "flag_emoji": "🇼🇸",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/ws/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/ws.png"
+    },
+    {
+      "name": "Tonga",
+      "iso2": "TO",
+      "iso3": "TON",
+      "continent": "Oceania",
+      "capital": "Nukualofa",
+      "population": 100000,
+      "area_km2": 747,
+      "official_language": "Tongano/Ingles",
+      "currency": "Pa'anga",
+      "landmarks": [
+        "Cuevas de Anahulu"
+      ],
+      "hints": [
+        "Unica monarquia que queda en el Pacifico",
+        "Conocido como las 'Islas de la Amistad'"
+      ],
+      "flag_emoji": "🇹🇴",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/to/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/to.png"
+    },
+    {
+      "name": "Tuvalu",
+      "iso2": "TV",
+      "iso3": "TUV",
+      "continent": "Oceania",
+      "capital": "Funafuti",
+      "population": 11000,
+      "area_km2": 26,
+      "official_language": "Tuvaluano/Ingles",
+      "currency": "Dolar australiano",
+      "landmarks": [
+        "Atolón de Funafuti"
+      ],
+      "hints": [
+        "Uno de los paises mas pequenos del mundo",
+        "Muy amenazado por la subida del nivel del mar"
+      ],
+      "flag_emoji": "🇹🇻",
+      "map_image_url": null,
+      "flag_image_url": "https://flagcdn.com/w320/tv.png"
+    },
+    {
+      "name": "Vanuatu",
+      "iso2": "VU",
+      "iso3": "VUT",
+      "continent": "Oceania",
+      "capital": "Port Vila",
+      "population": 330000,
+      "area_km2": 12189,
+      "official_language": "Bislama/Ingles/Frances",
+      "currency": "Vatu",
+      "landmarks": [
+        "Volcán Yasur"
+      ],
+      "hints": [
+        "Archipielago con varios volcanes activos",
+        "Considerado por encuestas uno de los paises mas felices del mundo"
+      ],
+      "flag_emoji": "🇻🇺",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/vu/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/vu.png"
+    }
+  ]
+}
