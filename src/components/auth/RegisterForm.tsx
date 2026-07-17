@@ -44,7 +44,7 @@ export default function RegisterForm() {
         email: normalizedEmail,
         password,
         options: {
-          emailRedirectTo: `${window.location.origin}/verify-email`,
+          emailRedirectTo: "https://atlas-master.alaguerom.workers.dev/verify-email",
         },
       });
 
