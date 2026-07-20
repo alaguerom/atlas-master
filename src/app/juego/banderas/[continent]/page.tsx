@@ -417,6 +417,10 @@ export default function FlagsGamePage() {
   }
 
   function restartGame() {
+    if (!continent) {
+      return;
+    }
+
     const newQuestions = createFlagsGame(continent, 10);
 
     setQuestions(newQuestions);
