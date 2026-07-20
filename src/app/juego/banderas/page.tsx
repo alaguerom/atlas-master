@@ -79,7 +79,7 @@ export default function FlagsContinentPage() {
     void checkSession();
   }, [router]);
 
-  function handleContinent(name: string, locked: boolean) {
+  function handleContinent(continentId: string, name: string, locked: boolean) {
     if (locked) {
       setMessage(
         "El modo Mundo se desbloqueará cuando completes Banderas en todos los continentes.",
@@ -87,9 +87,7 @@ export default function FlagsContinentPage() {
       return;
     }
 
-    setMessage(
-      `Has elegido ${name}. En el siguiente paso crearemos la partida de 10 países.`,
-    );
+    router.push(`/juego/banderas/${continentId}`);
   }
 
   if (isLoading) {
@@ -155,7 +153,7 @@ export default function FlagsContinentPage() {
               key={continent.id}
               type="button"
               onClick={() =>
-                handleContinent(continent.name, continent.locked)
+                handleContinent(continent.id, continent.name, continent.locked)
               }
               className={`flex min-h-64 flex-col rounded-3xl border p-5 text-left shadow-lg transition active:scale-[0.99] ${
                 continent.locked
