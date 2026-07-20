@@ -11,7 +11,7 @@ const gameModes = [
     icon: "🏳️",
     description: "Reconoce el país por su bandera.",
     points: "100 puntos base",
-    status: "Primer modo",
+    status: "Disponible",
   },
   {
     name: "Capitales",
@@ -76,9 +76,7 @@ export default function DashboardPage() {
 
   function handleModeClick(modeName: string) {
     if (modeName === "Banderas") {
-      setMessage(
-        "El modo Banderas será el siguiente bloque que vamos a construir.",
-      );
+      router.push("/juego/banderas");
       return;
     }
 
