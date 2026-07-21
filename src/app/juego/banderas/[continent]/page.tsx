@@ -6,6 +6,7 @@ import {
   type KeyboardEvent,
   useEffect,
   useMemo,
+  useRef,
   useState,
 } from "react";
 import { useParams, useRouter } from "next/navigation";
@@ -141,6 +142,10 @@ export default function FlagsGamePage() {
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [feedback, setFeedback] = useState("");
 
+  const [isSavingResult, setIsSavingResult] = useState(false);
+  const [saveResultError, setSaveResultError] = useState("");
+  const isSavingResultRef = useRef(false);
+
   const [searchText, setSearchText] = useState("");
   const [selectedCountryName, setSelectedCountryName] =
     useState<string | null>(null);
@@ -174,6 +179,9 @@ export default function FlagsGamePage() {
       setScore(0);
       setCorrectAnswers(0);
       setFeedback("");
+      setSaveResultError("");
+      setIsSavingResult(false);
+      isSavingResultRef.current = false;
       setSearchText("");
       setSelectedCountryName(null);
       setSearchMessage("");
@@ -403,17 +411,55 @@ export default function FlagsGamePage() {
     );
   }
 
-  function handleNext() {
+  async function handleNext() {
+    if (isSavingResultRef.current) {
+      return;
+    }
+
+    const isLastQuestion =
+      currentIndex === questions.length - 1;
+
+    if (isLastQuestion) {
+      isSavingResultRef.current = true;
+      setIsSavingResult(true);
+      setSaveResultError("");
+
+      const { error } = await supabase.rpc(
+        "record_game_result",
+        {
+          p_points: score,
+          p_correct_answers: correctAnswers,
+        },
+      );
+
+      if (error) {
+        console.error(
+          "No se pudo guardar el resultado:",
+          error,
+        );
+
+        isSavingResultRef.current = false;
+        setIsSavingResult(false);
+        setSaveResultError(
+          "No se ha podido guardar la partida. Pulsa de nuevo para reintentarlo.",
+        );
+        return;
+      }
+    }
+
     setCurrentIndex((previous) => previous + 1);
     setAttempt(1);
     setIsResolved(false);
     setResolvedCorrectly(false);
     setSelectedOption(null);
     setFeedback("");
+    setSaveResultError("");
     setSearchText("");
     setSelectedCountryName(null);
     setSearchMessage("");
     setShowSuggestions(false);
+    setIsSavingResult(false);
+    isSavingResultRef.current = false;
   }
 
   function restartGame() {
@@ -684,16 +730,9 @@ export default function FlagsGamePage() {
                         onClick={() =>
                           handleSuggestion(country.name)
                         }
-                        className="flex min-h-12 w-full items-center justify-between rounded-xl px-4 py-2 text-left font-semibold transition hover:bg-blue-50"
+                        className="flex min-h-12 w-full items-center rounded-xl px-4 py-2 text-left font-semibold transition hover:bg-blue-50"
                       >
                         <span>{country.name}</span>
-
-                        <span
-                          aria-hidden="true"
-                          className="text-xl"
-                        >
-                          {country.flag_emoji}
-                        </span>
                       </button>
                     ))}
                   </div>
@@ -781,14 +820,26 @@ export default function FlagsGamePage() {
             >
               <p className="text-lg font-bold">{feedback}</p>
 
+              {saveResultError ? (
+                <p
+                  role="alert"
+                  className="mt-3 rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm font-semibold text-red-800"
+                >
+                  {saveResultError}
+                </p>
+              ) : null}
+
               <button
                 type="button"
-                onClick={handleNext}
-                className="mt-4 min-h-12 rounded-2xl bg-emerald-500 px-6 text-lg font-extrabold text-white shadow-lg transition hover:bg-emerald-600"
+                onClick={() => void handleNext()}
+                disabled={isSavingResult}
+                className="mt-4 min-h-12 rounded-2xl bg-emerald-500 px-6 text-lg font-extrabold text-white shadow-lg transition hover:bg-emerald-600 disabled:cursor-wait disabled:opacity-70"
               >
-                {currentIndex === questions.length - 1
-                  ? "VER RESULTADO"
-                  : "SIGUIENTE"}
+                {isSavingResult
+                  ? "GUARDANDO..."
+                  : currentIndex === questions.length - 1
+                    ? "VER RESULTADO"
+                    : "SIGUIENTE"}
               </button>
             </div>
           ) : null}

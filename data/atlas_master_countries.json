@@ -1380,27 +1380,6 @@
       "flag_image_url": "https://flagcdn.com/w320/cn.png"
     },
     {
-      "name": "Chipre",
-      "iso2": "CY",
-      "iso3": "CYP",
-      "continent": "Asia",
-      "capital": "Nicosia",
-      "population": 1300000,
-      "area_km2": 9251,
-      "official_language": "Griego/Turco",
-      "currency": "Euro",
-      "landmarks": [
-        "Ruinas de Kourion"
-      ],
-      "hints": [
-        "Isla del Mediterraneo, a veces considerada tambien europea",
-        "Dividida entre la Republica de Chipre y el norte turcochipriota"
-      ],
-      "flag_emoji": "🇨🇾",
-      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/cy/1024.png",
-      "flag_image_url": "https://flagcdn.com/w320/cy.png"
-    },
-    {
       "name": "Corea del Norte",
       "iso2": "KP",
       "iso3": "PRK",
@@ -2722,6 +2701,27 @@
       "flag_emoji": "🇱🇺",
       "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/lu/1024.png",
       "flag_image_url": "https://flagcdn.com/w320/lu.png"
+    },
+    {
+      "name": "Macedonia del Norte",
+      "iso2": "MK",
+      "iso3": "MKD",
+      "continent": "Europa",
+      "capital": "Skopie",
+      "population": 1830000,
+      "area_km2": 25713,
+      "official_language": "Macedonio",
+      "currency": "Denar macedonio",
+      "landmarks": [
+        "Lago Ohrid"
+      ],
+      "hints": [
+        "Es un pais sin salida al mar de la peninsula balcanica",
+        "Su capital es Skopie"
+      ],
+      "flag_emoji": "🇲🇰",
+      "map_image_url": "https://raw.githubusercontent.com/djaiss/mapsicon/master/all/mk/1024.png",
+      "flag_image_url": "https://flagcdn.com/w320/mk.png"
     },
     {
       "name": "Malta",
